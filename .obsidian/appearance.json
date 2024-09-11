@@ -1,0 +1,9 @@
+{
+  "accentColor": "#009dff",
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "snippets"
+  ],
+  "baseFontSize": 17
+}

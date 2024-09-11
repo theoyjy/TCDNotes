@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "ff081ace044d26ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da985fcc7fa5474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519b55a3d13e2ec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research&Innov/wk01.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f513f0c557dc1510",
+    "type": "split",
+    "children": [
+      {
+        "id": "20292520f01d3d38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d478af17e7aea3ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ad0a541959e8fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc30f04725324bc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0650cf012bd6473e",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-para",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5478f96a86d2afbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff3325cbb29cc63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed73799c49b8b39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ebb92727777c99d",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "77324da2b4d467e1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ace97a108ec8ceb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research&Innov/wk01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7be0a01d9e76a1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research&Innov/wk01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3c9d6ccb8dc02e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "periodic-para:LifeOS": false
+    }
+  },
+  "active": "519b55a3d13e2ec4",
+  "lastOpenFiles": [
+    "CG/Wk01.md",
+    "Research&Innov/wk01.md",
+    "Research&Innov",
+    "CV/wk01.md",
+    "Welcome.md",
+    "Assignments.md",
+    "ML/wk01.md",
+    "CV",
+    "ML",
+    "Advanced Software Development/wk01.md",
+    "Untitled 1.md",
+    "CG",
+    "Advanced Software Development",
+    "Dissertation",
+    "Resources",
+    "Dissertation/Dissertation Topics.md",
+    "Resources/Dissertation Topics-20240909124324171.webp",
+    "Task Calendar.md",
+    "README.md",
+    "Flashcard.md",
+    "Plans/VR Plans.md",
+    "Plans/Dissertation.md",
+    "Plans/OKRs.md",
+    "Plans/Full Time!!.md",
+    "Knowledge/SDE/1. Core/Spoken.md",
+    "Excalidraw/Drawing 2024-08-21 15.05.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-23 17.18.18.excalidraw.md",
+    "InterviewPrep/Self Introduce.md",
+    "Excalidraw/Drawing 2024-08-07 23.03.15.excalidraw.md",
+    "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
+    "InterviewPrep",
+    "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
+    "Resources/C++ Storage Class.png",
+    "Knowledge/SDE/2. Medium/Effective (Modern) C++.md",
+    "Knowledge/SDE/2. Medium/C++ Interview Questions.md",
+    "Use Of Obsidian.md",
+    "taskIdo.md",
+    "PeriodicNotes/2024/Daily/08/2024-08-06.md",
+    "PeriodicNotes/2024/Daily/08",
+    "PeriodicNotes/2024/Daily",
+    "Resources/System Design Interview-20240801165536457.webp",
+    "6_Binary_Tree-20240731162727866.webp",
+    "Resource/6_Binary_Tree-20240731155134624.webp",
+    "Resource/6_Binary_Tree-20240729190108875.webp",
+    "Resource/6_Binary_Tree-20240730184706878.webp",
+    "Resource/6_Binary_Tree-20240730182555131.webp",
+    "Resource/6_Binary_Tree-20240729231838838.webp",
+    "Resource/6_Binary_Tree-20240729222641757.webp",
+    "WorkTmp/2.7bugs.canvas"
+  ]
+}
