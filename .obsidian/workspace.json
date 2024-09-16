@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "347d6ddea1f99df4",
+        "id": "94c101bab4693db3",
         "type": "tabs",
         "children": [
           {
-            "id": "b31ca54a72985146",
+            "id": "353cffeb359c527b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Advanced Software Development/Agile.canvas",
-                "viewState": {
-                  "x": -140.1352954404602,
-                  "y": 988.3650630797117,
-                  "zoom": -1.3333333333333333
-                }
-              }
-            }
-          },
-          {
-            "id": "5554976438e387a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Dev Process.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Dev Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Dev Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +175,23 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "5554976438e387a9",
+  "active": "353cffeb359c527b",
   "lastOpenFiles": [
+    "Advanced Software Development/wk2.md",
+    "Welcome.md",
     "Dissertation/First Meeting Preparation.md",
-    "Project Dev Process.md",
+    "Dissertation/Dissertation Topics.md",
+    "Mathematics of Light and Sound/wk01.md",
+    "CS7GV2-L1-Waves-Slides.pdf",
+    "Drawing 2024-09-13 13.04.20.excalidraw.md",
+    "ML/wk01.md",
+    "!Assignments.md",
+    "Resources/wk01-20240913121715773.webp",
+    "Mathematics of Light and Sound",
+    "CG/Wk01.md",
+    "Advanced Software Development/wk01.md",
     "Advanced Software Development/Agile.canvas",
+    "Advanced Software Development/Project Dev Process.md",
     "PeriodicNotes/2024/Daily/09/2024-09-12.md",
     "PeriodicNotes/2024/Daily/09",
     "PeriodicNotes/2024/Daily",
@@ -214,20 +203,11 @@
     "PeriodicNotes/Templates/Daily.md",
     "PeriodicNotes/Templates",
     "PeriodicNotes",
-    "Untitled.md",
-    "Dissertation/Dissertation Topics.md",
     "Research&Innov/wk01.md",
-    "CG/Wk01.md",
     "Research&Innov",
     "CV/wk01.md",
-    "Welcome.md",
-    "Assignments.md",
-    "ML/wk01.md",
     "CV",
     "ML",
-    "Advanced Software Development/wk01.md",
-    "CG",
-    "Advanced Software Development",
     "Resources/Dissertation Topics-20240909124324171.webp",
     "Task Calendar.md",
     "README.md",
@@ -235,8 +215,6 @@
     "Plans/VR Plans.md",
     "Plans/Dissertation.md",
     "Plans/OKRs.md",
-    "Plans/Full Time!!.md",
-    "Knowledge/SDE/1. Core/Spoken.md",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
     "Resources/C++ Storage Class.png",
@@ -247,7 +225,6 @@
     "Resource/6_Binary_Tree-20240730184706878.webp",
     "Resource/6_Binary_Tree-20240730182555131.webp",
     "Resource/6_Binary_Tree-20240729231838838.webp",
-    "Resource/6_Binary_Tree-20240729222641757.webp",
     "WorkTmp/2.7bugs.canvas"
   ]
 }
