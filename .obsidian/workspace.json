@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "94c101bab4693db3",
+        "id": "0dc4e1a064566adc",
         "type": "tabs",
         "children": [
           {
-            "id": "353cffeb359c527b",
+            "id": "0d701dcf01109650",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML/wk02 - Logistic regression & SVM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "canv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/wk02 - Logistic regression & SVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/wk02 - Logistic regression & SVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +182,21 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "353cffeb359c527b",
+  "active": "0d701dcf01109650",
   "lastOpenFiles": [
+    "wk02 - Logistic regression & SVM-20240917233725321.webp",
+    "ML/wk01 - Linear Regression.md",
+    "ML/wk02 - Logistic regression & SVM.md",
+    "wk02 - Logistic regression & SVM-20240917231746652.webp",
+    "CV/wk02-Feature Detection and Matching.md",
+    "CV/wk01 - Intro.md",
+    "!Assignments.md",
+    "Resources/wk01-20240917172720277.webp",
+    "Untitled.canvas",
+    "Advanced Software Development/Agile.canvas",
+    "Resources/wk01-20240917180759966.webp",
+    "Resources/wk01-20240917180052199.webp",
+    "CG/wk02.md",
     "Advanced Software Development/wk2.md",
     "Welcome.md",
     "Dissertation/First Meeting Preparation.md",
@@ -184,13 +204,10 @@
     "Mathematics of Light and Sound/wk01.md",
     "CS7GV2-L1-Waves-Slides.pdf",
     "Drawing 2024-09-13 13.04.20.excalidraw.md",
-    "ML/wk01.md",
-    "!Assignments.md",
     "Resources/wk01-20240913121715773.webp",
     "Mathematics of Light and Sound",
     "CG/Wk01.md",
     "Advanced Software Development/wk01.md",
-    "Advanced Software Development/Agile.canvas",
     "Advanced Software Development/Project Dev Process.md",
     "PeriodicNotes/2024/Daily/09/2024-09-12.md",
     "PeriodicNotes/2024/Daily/09",
@@ -205,26 +222,18 @@
     "PeriodicNotes",
     "Research&Innov/wk01.md",
     "Research&Innov",
-    "CV/wk01.md",
     "CV",
     "ML",
     "Resources/Dissertation Topics-20240909124324171.webp",
     "Task Calendar.md",
     "README.md",
     "Flashcard.md",
-    "Plans/VR Plans.md",
-    "Plans/Dissertation.md",
-    "Plans/OKRs.md",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
     "Resources/C++ Storage Class.png",
     "Resources/System Design Interview-20240801165536457.webp",
     "6_Binary_Tree-20240731162727866.webp",
     "Resource/6_Binary_Tree-20240731155134624.webp",
-    "Resource/6_Binary_Tree-20240729190108875.webp",
-    "Resource/6_Binary_Tree-20240730184706878.webp",
-    "Resource/6_Binary_Tree-20240730182555131.webp",
-    "Resource/6_Binary_Tree-20240729231838838.webp",
     "WorkTmp/2.7bugs.canvas"
   ]
 }

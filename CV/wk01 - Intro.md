@@ -23,12 +23,16 @@
 >Understand the location, materials of objects
 
 ## Image Acquisition
+
 >[!info] Energy - illumination
 >photon can be measured
 >	by Energy $E$
 >	frequency $f$
 >	wavelength $\lambda$
 >$\lambda = \frac {c} {f} \quad  E =h \times f  \quad E = \frac {h \times c} {\lambda}$
+
+Visible light is just small part of light. If $\lambda < visible light$, $f$ increases, $E$ increases
+
 
 >[!info] The lens
 >$\frac {1} {g} + \frac {1} {b} = \frac {1} {f}$
