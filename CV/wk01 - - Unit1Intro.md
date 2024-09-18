@@ -42,3 +42,23 @@ Visible light is just small part of light. If $\lambda < visible light$, $f$ inc
 >g is fairly long, could be omitted, so $b \approx f$
 >- Depth of Field: change g without need to change b, the photo is still good
 
+#### Image Capture - Sensor
+##### Brightness 
+* Sensor is nothing but illumination energy capacitor 
+* 1 pixel - one sensor
+* More *closer* sensors are, higher resolution will be
+* distance of the sensors is **dot pitch**
+* all pixel values is 8 bits(0~255)
+* *Shutter* to prevent over amount of light or information.
+* longer exposure time  -> more light captured -> image becomes lighter
+  - correctly, over, under, motion blur
+##### Color
+- Capture RGB(24 bits, 3 channels), Shade of Gray.
+- when light is very low, **Rods** capture the **Shade of Gray**
+- White light is proper light, that make you can see all colors(all wavelengths)
+- (0,0,0) not capturing any light is black, (255,255,255) is white
+- Normalized RGB
+- **Hue and Saturation**
+  - Hue is actually angles.
+  - Saturation is the purity of the color
+  - ![[wk01 - - Unit1Intro-20240918093908763.webp|300]]

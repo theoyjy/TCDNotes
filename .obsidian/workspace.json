@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc4e1a064566adc",
+        "id": "41feb9fdfc70aa4d",
         "type": "tabs",
         "children": [
           {
-            "id": "0d701dcf01109650",
+            "id": "eb5d4d2dffeca72f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/wk02 - Logistic regression & SVM.md",
+                "file": "CV/wk01 - - Unit1Intro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00edc8a2cf318aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/wk02 - Logistic regression & SVM.md",
+                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/wk02 - Logistic regression & SVM.md",
+                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,14 +196,15 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "0d701dcf01109650",
+  "active": "00edc8a2cf318aad",
   "lastOpenFiles": [
+    "CV/wk01 - - Unit1Intro.md",
+    "wk01 - - Unit1Intro-20240918093908763.webp",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "ML/wk02 - Logistic regression & SVM.md",
     "wk02 - Logistic regression & SVM-20240917233725321.webp",
     "ML/wk01 - Linear Regression.md",
-    "ML/wk02 - Logistic regression & SVM.md",
     "wk02 - Logistic regression & SVM-20240917231746652.webp",
-    "CV/wk02-Feature Detection and Matching.md",
-    "CV/wk01 - Intro.md",
     "!Assignments.md",
     "Resources/wk01-20240917172720277.webp",
     "Untitled.canvas",
@@ -232,8 +247,6 @@
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
     "Resources/C++ Storage Class.png",
     "Resources/System Design Interview-20240801165536457.webp",
-    "6_Binary_Tree-20240731162727866.webp",
-    "Resource/6_Binary_Tree-20240731155134624.webp",
     "WorkTmp/2.7bugs.canvas"
   ]
 }
