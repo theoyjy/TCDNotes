@@ -25,6 +25,44 @@
 >![[wk02 - Logistic regression & SVM-20240917233725321.webp]]
 >Train a classifier $sign(\theta^T x)$ for each class $i$ to predict the probability that $y=i$. **Re-label** data as $y = -1$ when $y != i$
 
+#### hinge loss function
+![[wk02 - Logistic regression & SVM-20240920121131603.webp|400]]
+1. Not smooth -- un-differentiable
+2. assign zero penalty to all values of $\theta$ which ensures $\theta^T x >= 1$ when $y = 1$ and  $\theta^T x <= -1$ when $y = 1$
+
+#### Gradient Descent for SVMs
+![[wk02 - Logistic regression & SVM-20240920121511614.webp]]
+
+### Feature Engineering
+When encounter **non-linear curves**.
+
+>[!tip] Changing Input Features:
+>Basic idea:
+>1. Process or transform them to produce new features
+>	1. Modify individual features $x_i^{new} = (x_i - \mu_i) / \sigma_i$
+>	2. Create multiple features from one original features 
+>	   replace $x_i$ by $x_i, x_i^2, x_i^3, ...$
+>	3. Create new feature from multiple original features
+>	   Products can be used to model interaction between features $x_1 x_2$
+>2. Use these new features in your predictor/model
+>
+>It's a good idea to train on both original features and new features, then evaluate their performance
+
+>[!info] Choosing outputs
+> convert the equation to linear, for example: 
+>![[wk02 - Logistic regression & SVM-20240920123530839.webp|500]]
+
+>[!caution] Under or Over -fitting
+>* If too many features -> fit all the up and downs -> cause "noise"-> overfitting
+>* too less -> capture not enough behavior -> underfitting
+>* Model Selection
+
+
+
+
+
+
+
 
 
 ### Sklearn

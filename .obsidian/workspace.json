@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41feb9fdfc70aa4d",
+        "id": "637fdf1a87ef5810",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5d4d2dffeca72f",
+            "id": "8312fc8ddc033647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/wk01 - - Unit1Intro.md",
+                "file": "Mathematics of Light and Sound/wk01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,15 +21,12 @@
             }
           },
           {
-            "id": "00edc8a2cf318aad",
+            "id": "425ab6b11b58dba4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Mathematics of Light and Sound/math01.md"
               }
             }
           }
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+                "file": "Mathematics of Light and Sound/math01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+                "file": "Mathematics of Light and Sound/math01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,15 +193,28 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "00edc8a2cf318aad",
+  "active": "d478af17e7aea3ca",
   "lastOpenFiles": [
-    "CV/wk01 - - Unit1Intro.md",
-    "wk01 - - Unit1Intro-20240918093908763.webp",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "math01.md",
+    "Mathematics of Light and Sound/wk01.md",
+    "Mathematics of Light and Sound/math01.md",
+    "Resources/wk02 - Logistic regression & SVM-20240920123530839.webp",
+    "Research&Innov/wk02.md",
+    "Resources/wk01 - - Unit1Intro-20240918093908763.webp",
+    "ML/wk03 Cross-Validation & Regularization.md",
     "ML/wk02 - Logistic regression & SVM.md",
-    "wk02 - Logistic regression & SVM-20240917233725321.webp",
+    "Resources/wk02 - Logistic regression & SVM-20240920121511614.webp",
+    "Resources/wk02 - Logistic regression & SVM-20240920121131603.webp",
+    "Advanced Software Development/wk02.md",
+    "Todo.md",
+    "README.md",
+    "pdf annotator example.md",
+    "Research&Innov/wk01.md",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "CV/wk01 - - Unit1Intro.md",
+    "Resources/wk02 - Logistic regression & SVM-20240917233725321.webp",
     "ML/wk01 - Linear Regression.md",
-    "wk02 - Logistic regression & SVM-20240917231746652.webp",
+    "Resources/wk02 - Logistic regression & SVM-20240917231746652.webp",
     "!Assignments.md",
     "Resources/wk01-20240917172720277.webp",
     "Untitled.canvas",
@@ -212,11 +222,9 @@
     "Resources/wk01-20240917180759966.webp",
     "Resources/wk01-20240917180052199.webp",
     "CG/wk02.md",
-    "Advanced Software Development/wk2.md",
     "Welcome.md",
     "Dissertation/First Meeting Preparation.md",
     "Dissertation/Dissertation Topics.md",
-    "Mathematics of Light and Sound/wk01.md",
     "CS7GV2-L1-Waves-Slides.pdf",
     "Drawing 2024-09-13 13.04.20.excalidraw.md",
     "Resources/wk01-20240913121715773.webp",
@@ -230,23 +238,13 @@
     "PeriodicNotes/2024",
     "PeriodicNotes/Templates/Yearly.md",
     "PeriodicNotes/Templates/Weekly.md",
-    "PeriodicNotes/Templates/Quarterly.md",
-    "PeriodicNotes/Templates/Monthly.md",
-    "PeriodicNotes/Templates/Daily.md",
     "PeriodicNotes/Templates",
     "PeriodicNotes",
-    "Research&Innov/wk01.md",
     "Research&Innov",
     "CV",
     "ML",
-    "Resources/Dissertation Topics-20240909124324171.webp",
-    "Task Calendar.md",
-    "README.md",
-    "Flashcard.md",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
-    "Resources/C++ Storage Class.png",
-    "Resources/System Design Interview-20240801165536457.webp",
     "WorkTmp/2.7bugs.canvas"
   ]
 }
