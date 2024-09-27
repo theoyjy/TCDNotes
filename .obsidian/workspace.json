@@ -4,34 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "637fdf1a87ef5810",
+        "id": "e1cd1622e73a6479",
         "type": "tabs",
         "children": [
           {
-            "id": "8312fc8ddc033647",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics of Light and Sound/wk01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "425ab6b11b58dba4",
+            "id": "9d3afe499b00bed2",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Mathematics of Light and Sound/math01.md"
+                "file": "Mathematics of Light and Sound/L2-Wave-Equation.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics of Light and Sound/math01.md",
+                "file": "Mathematics of Light and Sound/L2-Wave-Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics of Light and Sound/math01.md",
+                "file": "Mathematics of Light and Sound/L2-Wave-Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,56 +179,55 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "d478af17e7aea3ca",
+  "active": "9d3afe499b00bed2",
   "lastOpenFiles": [
-    "math01.md",
-    "Mathematics of Light and Sound/wk01.md",
     "Mathematics of Light and Sound/math01.md",
-    "Resources/wk02 - Logistic regression & SVM-20240920123530839.webp",
-    "Research&Innov/wk02.md",
-    "Resources/wk01 - - Unit1Intro-20240918093908763.webp",
-    "ML/wk03 Cross-Validation & Regularization.md",
-    "ML/wk02 - Logistic regression & SVM.md",
-    "Resources/wk02 - Logistic regression & SVM-20240920121511614.webp",
-    "Resources/wk02 - Logistic regression & SVM-20240920121131603.webp",
-    "Advanced Software Development/wk02.md",
+    "Mathematics of Light and Sound/L2-Wave-Equation.md",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185009605.webp",
+    "Research&Innov/wk03.md",
     "Todo.md",
-    "README.md",
-    "pdf annotator example.md",
-    "Research&Innov/wk01.md",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "CV/wk01 - - Unit1Intro.md",
-    "Resources/wk02 - Logistic regression & SVM-20240917233725321.webp",
-    "ML/wk01 - Linear Regression.md",
-    "Resources/wk02 - Logistic regression & SVM-20240917231746652.webp",
     "!Assignments.md",
-    "Resources/wk01-20240917172720277.webp",
+    "pdf annotator example.md",
+    "math01.md",
+    "ML/wk03 - Model Selection & Performance Evaluation.md",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926194118098.webp",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926193133142.webp",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926191606274.webp",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185243237.webp",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185110109.webp",
+    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185031096.webp",
+    "Resources/wk03 Cross-Validation & Regularization-20240926181932175.webp",
+    "Resources/wk03 Cross-Validation & Regularization-20240926181741390.webp",
+    "Resources/wk03 Cross-Validation & Regularization-20240926162611841.webp",
+    "Research&Innov/wk03 Innovation Plan.md",
+    "Research&Innov/wk01.md",
+    "Research&Innov/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
+    "Excalidraw/validate access of editing.md",
+    "Excalidraw/Drawing 2024-09-25 12.12.09.excalidraw.md",
+    "CV/wk03-Image Pyramids & Segmentation.md",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "CG/wk03 Graphics Programming.md",
+    "Excalidraw",
+    "CG/wk02 Graphic Pipeline.md",
+    "Advanced Software Development/Project.md",
+    "Mathematics of Light and Sound/wk01.md",
+    "ML/wk02 - Logistic regression & SVM.md",
+    "Advanced Software Development/wk02.md",
+    "README.md",
+    "CV/wk01 - - Unit1Intro.md",
+    "ML/wk01 - Linear Regression.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
-    "Resources/wk01-20240917180759966.webp",
-    "Resources/wk01-20240917180052199.webp",
-    "CG/wk02.md",
     "Welcome.md",
-    "Dissertation/First Meeting Preparation.md",
-    "Dissertation/Dissertation Topics.md",
     "CS7GV2-L1-Waves-Slides.pdf",
-    "Drawing 2024-09-13 13.04.20.excalidraw.md",
-    "Resources/wk01-20240913121715773.webp",
     "Mathematics of Light and Sound",
-    "CG/Wk01.md",
-    "Advanced Software Development/wk01.md",
-    "Advanced Software Development/Project Dev Process.md",
-    "PeriodicNotes/2024/Daily/09/2024-09-12.md",
     "PeriodicNotes/2024/Daily/09",
     "PeriodicNotes/2024/Daily",
     "PeriodicNotes/2024",
-    "PeriodicNotes/Templates/Yearly.md",
-    "PeriodicNotes/Templates/Weekly.md",
     "PeriodicNotes/Templates",
     "PeriodicNotes",
     "Research&Innov",
     "CV",
-    "ML",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
     "WorkTmp/2.7bugs.canvas"

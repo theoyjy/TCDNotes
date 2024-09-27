@@ -24,6 +24,7 @@ Introduce the Fragment Shader for much more *lightings*, *textures*.
    - Developer has full control
      Setting up on the vertex and programs. Basically ends up with Vertex buffer
 2. Geometry Stage
+   ![[wk02-20240924120601697.webp|500]]
 	1. Vertex Shader(Programmable)
 	   1. Model & View Transformation
 	      - Scale objs to the suitable scale.
@@ -41,4 +42,23 @@ Introduce the Fragment Shader for much more *lightings*, *textures*.
 	3. Screening Mapping
 	   Convert 2D Normalized Coordinates(range from -1 to 1) to 2D Screen/pixel(0,0) to (x resolution, y resolution)
 3. The Rasterized Stage
+    *compute and set colors for the pixels covered by the object*
+   ![[wk02-20240924120631550.webp|500]]
+   1. Triangle Traversal
+	- Which pixels are inside a triangle
+	- Each pixel that has its center covered by the triangle is checked
+	- A *fragment* is generated for *the part of the pixel that overlaps* the triangle(**can be hidden or visible**) -- potential pixels
+	- Triangle vertices interpolation'
+2. Pixel Shading
+	* Per-pixel shading computations performed
+	* End result is *one or more colors to be passed to the next stage*
+3. Merging
+	* Information for each pixel is stored in the color buffer
+	* *Combine* the fragment color produced by the shading stage with the color currently stored in the buffer
+	* This stage is also responsible for resolving visibility
+		* Using the z-buffer
+		* Z-Buffer stores the depth of each pixel, darker means closer
 
+#### Double Buffering
+ To avoid perception of primitives being rasterized, double buffering is used
+ Once complete, contents are swapped with the front buffer

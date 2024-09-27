@@ -37,10 +37,15 @@
 	  1. Smooth image with Gaussian filter -> denoise
 	  2. Compute derivative of filtered image 
 	  3. Find magnitude and orientation of gradient
+	     ![[wk02- Unit1 - Linear Filtering and Edge Detection-20240925092215521.webp|100]]
 	     Direction of vertical edge is 0 degree
 	     Direction of horizontal edge is 90 degree
 	  4. Apply “Non-maximum Suppression”
+	     if value is not greater than maximum, then the pixel is the on the edge, neighbors are selected from the normal to the edge 
 	  5. Apply “Hysteresis Threshold
+	     1. larger than high threshold -> edge
+	     2. between low and high thresholds, then iterate the 8 pixels around the pixels, if one is greater than the high threshold, make it the edge, otherwise, non-edge 
+	     3. below low threshold -> no edge
 
 
 
