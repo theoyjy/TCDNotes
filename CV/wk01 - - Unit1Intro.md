@@ -31,8 +31,12 @@
 >	wavelength $\lambda$
 >$\lambda = \frac {c} {f} \quad  E =h \times f  \quad E = \frac {h \times c} {\lambda}$
 
-Visible light is just small part of light. If $\lambda < visible light$, $f$ increases, $E$ increases
-
+- Visible light is just small part of light: 400nm to 700nm
+- $f$ increases, $E$ increases. 
+- Gamma Ray's $f$ is very high, so $\lambda$ is so small, the energy $E$ is high, which is dangerous
+  - Nuclear medicine
+  - **PTE(Positron emission tomography)**
+- Radio waves has long wavelength, low energy
 
 >[!info] The lens
 >$\frac {1} {g} + \frac {1} {b} = \frac {1} {f}$
@@ -53,12 +57,12 @@ Visible light is just small part of light. If $\lambda < visible light$, $f$ inc
 * longer exposure time  -> more light captured -> image becomes lighter
   - correctly, over, under, motion blur
 ##### Color
-- Capture RGB(24 bits, 3 channels), Shade of Gray.
+- Capture RGB(24 bits, 3 channels) by Cones(LMS), Shade of Gray.
 - when light is very low, **Rods** capture the **Shade of Gray**
 - White light is proper light, that make you can see all colors(all wavelengths)
 - (0,0,0) not capturing any light is black, (255,255,255) is white
 - Normalized RGB
 - **Hue and Saturation**
   - Hue is actually angles.
-  - Saturation is the purity of the color
+  - Saturation is the purity of the color: the amount of white light mixed with pure color
   - ![[wk01 - - Unit1Intro-20240918093908763.webp|300]]

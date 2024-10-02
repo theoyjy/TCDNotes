@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e1cd1622e73a6479",
+        "id": "7258d52129dfa87b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3afe499b00bed2",
+            "id": "995f33a7aa722b06",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "image",
               "state": {
-                "file": "Mathematics of Light and Sound/L2-Wave-Equation.md"
+                "file": "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001225125504.webp"
               }
             }
           }
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "0650cf012bd6473e",
+            "id": "4b84a8e37165cb8c",
             "type": "leaf",
             "state": {
               "type": "periodic-para",
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics of Light and Sound/L2-Wave-Equation.md",
+                "file": "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001225125504.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics of Light and Sound/L2-Wave-Equation.md",
+                "file": "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001225125504.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,42 +177,43 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "9d3afe499b00bed2",
+  "active": "d478af17e7aea3ca",
   "lastOpenFiles": [
-    "Mathematics of Light and Sound/math01.md",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001225914506.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001225125504.webp",
+    "Resources/wk03-Image Pyramids & Segmentation-20241001224902834.webp",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "CV/wk01 - - Unit1Intro.md",
+    "CV/wk03-Image Pyramids & Segmentation.md",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241002001245664.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241002001000122.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241002000601606.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001234402288.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001232110580.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001230818183.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001230347052.webp",
+    "Resources/wk02- Unit1 - Linear Filtering and Edge Detection-20241001230304595.webp",
+    "CG/wk03-04 Graphics Programming.md",
+    "ML/wk02 - Logistic regression & SVM.md",
+    "ML/wk03 - Model Selection & Performance Evaluation.md",
     "Mathematics of Light and Sound/L2-Wave-Equation.md",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185009605.webp",
+    "Mathematics of Light and Sound/math01.md",
     "Research&Innov/wk03.md",
     "Todo.md",
     "!Assignments.md",
     "pdf annotator example.md",
     "math01.md",
-    "ML/wk03 - Model Selection & Performance Evaluation.md",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926194118098.webp",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926193133142.webp",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926191606274.webp",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185243237.webp",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185110109.webp",
-    "Resources/wk03 - Model Selection & Performance Evaluation-20240926185031096.webp",
-    "Resources/wk03 Cross-Validation & Regularization-20240926181932175.webp",
-    "Resources/wk03 Cross-Validation & Regularization-20240926181741390.webp",
-    "Resources/wk03 Cross-Validation & Regularization-20240926162611841.webp",
     "Research&Innov/wk03 Innovation Plan.md",
     "Research&Innov/wk01.md",
     "Research&Innov/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
     "Excalidraw/validate access of editing.md",
     "Excalidraw/Drawing 2024-09-25 12.12.09.excalidraw.md",
-    "CV/wk03-Image Pyramids & Segmentation.md",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "CG/wk03 Graphics Programming.md",
     "Excalidraw",
     "CG/wk02 Graphic Pipeline.md",
     "Advanced Software Development/Project.md",
     "Mathematics of Light and Sound/wk01.md",
-    "ML/wk02 - Logistic regression & SVM.md",
     "Advanced Software Development/wk02.md",
     "README.md",
-    "CV/wk01 - - Unit1Intro.md",
     "ML/wk01 - Linear Regression.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
