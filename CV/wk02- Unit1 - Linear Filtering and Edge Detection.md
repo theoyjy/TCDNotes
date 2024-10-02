@@ -105,6 +105,7 @@ Since the kernel size is 3x3, the regular 2D convolution requires 9 multiplicati
 
 ![[wk02- Unit1 - Linear Filtering and Edge Detection-20241002001000122.webp]]
 
+###### Low-pass and high-pass FILTERs
 >[!tip] Low-pass and high-pass FILTERs
 >Low-pass filter: pass only low frequency information(smooth, gradual changes in intensity), while attenuating(reducing) high-frequency information (sharp edges, noise).
 >**- If all positive or negative filter values -> low pass filter**

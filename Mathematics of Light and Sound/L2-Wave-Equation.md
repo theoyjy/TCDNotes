@@ -1,5 +1,5 @@
 ---
-annotation-target: C:\Users\sky\Desktop\Light&Sound\CS7GV2-L2-Wave-Equation.pdf
+annotation-target: D:\Code\TCDNotes\Mathematics of Light and Sound\lec\CS7GV2-L2-Wave-Equation.pdf
 ---
 
 

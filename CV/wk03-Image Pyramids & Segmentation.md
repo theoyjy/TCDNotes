@@ -13,6 +13,10 @@ top is level 0, bottom is level j(base)
 - to make the resolution upscale by factor n, have to predict many pixels
 - predict by **interpolation**
 
+>[!important]
+>Only up sampling then down sampling will result the same image as origin
+>Down then up will lose info in the first place
+
 ### Interpolation 
 #### Zeroth-order Interpolation - **Nearest Neighbor Interpolation**
 **Uses a constant value** - the nearest known point
