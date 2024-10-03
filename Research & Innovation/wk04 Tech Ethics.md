@@ -1,5 +1,5 @@
 ---
-annotation-target: D:\Code\TCDNotes\Research&Innov\slides\EthicsSlides.pdf
+annotation-target: slides\EthicsSlides.pdf
 ---
 
 

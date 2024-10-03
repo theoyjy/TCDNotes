@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef71057c7aa4cb6",
+        "id": "4391b458467b22f8",
         "type": "tabs",
         "children": [
           {
-            "id": "443d105ffdc27cd4",
+            "id": "ff39746c715c5d59",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Research&Innov/slides/ZaraBusinessModelCanvas.avif"
+                "file": "Research & Innovation/group/Dissertation Notes.md"
               }
             }
           }
@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research&Innov/slides/ZaraBusinessModelCanvas.avif",
+                "file": "Research & Innovation/group/Dissertation Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research&Innov/slides/ZaraBusinessModelCanvas.avif",
+                "file": "Research & Innovation/group/Dissertation Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,40 +178,41 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "443d105ffdc27cd4",
+  "active": "ff39746c715c5d59",
   "lastOpenFiles": [
-    "Research&Innov/wk04 Tech Ethics.md",
-    "Research&Innov/wk01.md",
-    "Research&Innov/wk03 Innovation Plan.md",
-    "Research&Innov/wk03.md",
-    "Research&Innov/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
-    "ML/wk01 - Linear Regression.md",
-    "ML/wk02 - Logistic regression & SVM.md",
-    "ML/wk03 - Model Selection & Performance Evaluation.md",
-    "Advanced Software Development/Project.md",
-    "Advanced Software Development/Project Dev Process.md",
+    "Research & Innovation/wk04 Tech Ethics.md",
+    "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
     "Advanced Software Development/wk01.md",
     "Advanced Software Development/wk02.md",
-    "Mathematics of Light and Sound/L2-Wave-Equation.md",
-    "Mathematics of Light and Sound/wk01.md",
-    "Mathematics of Light and Sound/math01.md",
-    "CV/wk01 - - Unit1Intro.md",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "CV/wk03-Image Pyramids & Segmentation.md",
-    "CG/Wk01.md",
     "CG/wk02 Graphic Pipeline.md",
     "CG/wk03-04 Graphics Programming.md",
-    "Mathematics of Light and Sound/lec/CS7GV2-L1-Waves-Slides.pdf",
-    "Mathematics of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf",
-    "Mathematics of Light and Sound/lec",
+    "CV/wk03-Image Pyramids & Segmentation.md",
+    "Machine Learning/wk02 - Logistic regression & SVM.md",
+    "Research & Innovation/group/Dissertation Notes.md",
+    "Research & Innovation/wk01.md",
+    "Research & Innovation/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
+    "Research & Innovation/wk03.md",
+    "Research & Innovation/wk03 Innovation Plan.md",
+    "Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf",
+    "Research & Innovation/slides/ZaraBusinessModelCanvas.avif",
+    "Machine Learning/wk01 - Linear Regression.md",
+    "Advanced Software Development/Project.md",
+    "Advanced Software Development/Project Dev Process.md",
+    "Math of Light and Sound/L2-Wave-Equation.md",
+    "Math of Light and Sound/wk01.md",
+    "Math of Light and Sound/math01.md",
+    "CV/wk01 - - Unit1Intro.md",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "CG/Wk01.md",
+    "Math of Light and Sound/lec/CS7GV2-L1-Waves-Slides.pdf",
+    "Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf",
+    "Math of Light and Sound/lec",
     "Mathematics of Light and Sound/新建文件夹",
     "Mathematics of Light and Sound/CS7GV2-L2-Wave-Equation.pdf",
     "Mathematics of Light and Sound/CS7GV2-L1-Waves-Slides.pdf",
-    "Research&Innov/slides/ZaraBusinessModelCanvas.avif",
-    "Research&Innov/slides/GSbusiness model canvas-pt3.pdf",
-    "Research&Innov/slides/GSbusiness model canvas-pt2.pdf",
-    "Research&Innov/slides/EthicsSlides.pdf",
-    "Research&Innov/slides",
+    "Research & Innovation/slides/GSbusiness model canvas-pt3.pdf",
+    "Research & Innovation/slides/GSbusiness model canvas-pt2.pdf",
+    "Research & Innovation/slides/EthicsSlides.pdf",
     "CG/labs/lab3/Project1/glew-1.10.0/doc/ogl_sm.jpg",
     "CG/labs/lab3/Project1/glew-1.10.0/doc/new.png",
     "CG/labs/lab3/Project1/glew-1.10.0/doc/glew.png",
@@ -221,12 +221,10 @@
     "CG/labs/lab1/Project1/glew-1.10.0/doc/glew.png",
     "CG/labs/lab1/Screenshot 2024-09-17 132144.png",
     "CG/labs/lab1/Screenshot 2024-09-11 130143.png",
-    "ML/Weekly Assignments/week2/penalty0_001.png",
-    "ML/Weekly Assignments/week2/Answers to Week2 Assignment.md",
+    "Machine Learning/Weekly Assignments/week2/penalty0_001.png",
+    "Machine Learning/Weekly Assignments/week2/Answers to Week2 Assignment.md",
     "Resources/wk04-Feature Detection and Matching.md",
     "Todo.md",
-    "!Assignments.md",
-    "pdf annotator example.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",

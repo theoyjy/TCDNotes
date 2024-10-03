@@ -1,5 +1,5 @@
 ---
-annotation-target: D:\Code\TCDNotes\Research&Innov\slides\GSbusiness model canvas-pt2.pdf
+annotation-target: slides\GSbusiness model canvas-pt2.pdf
 ---
 
 
