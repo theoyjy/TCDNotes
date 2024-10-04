@@ -1,5 +1,5 @@
 ---
-annotation-target: D:\Code\TCDNotes\Mathematics of Light and Sound\lec\CS7GV2-L2-Wave-Equation.pdf
+annotation-target: CS7GV2-L2-Wave-Equation.pdf
 ---
 
 
@@ -249,3 +249,19 @@ annotation-target: D:\Code\TCDNotes\Mathematics of Light and Sound\lec\CS7GV2-L2
 >%%TAGS%%
 >
 ^3f38rqbg1y3
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-04T12:07:07.363Z","text":"The equation is wrong, it should be:\n$m \\ddot{y} = -ky-c\\dot {y}$ is speed\n","updated":"2024-10-04T12:07:07.363Z","document":{"title":"../../Include/CS7GV2-CourseTitle.tex   1cm Lecture #2: Wave Equation","link":[{"href":"urn:x-pdf:3824a13612aa481534764a531b6480a1"},{"href":"vault:/Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf"}],"documentFingerprint":"3824a13612aa481534764a531b6480a1"},"uri":"vault:/Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf","target":[{"source":"vault:/Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf","selector":[{"type":"TextPositionSelector","start":1083,"end":1105},{"type":"TextQuoteSelector","exact":"m  ̈y = −k y = −c  ̇y ","prefix":"he other differentialequations, ","suffix":", so,m d2 y (t)dt2 + c dy (t)dt "}]}]}
+>```
+>%%
+>*%%PREFIX%%he other differentialequations,%%HIGHLIGHT%% ==m  ̈y = −k y = −c  ̇y== %%POSTFIX%%, so,m d2 y (t)dt2 + c dy (t)dt*
+>%%LINK%%[[#^scjlua8xff|show annotation]]
+>%%COMMENT%%
+>The equation is wrong, it should be:
+>$m \ddot{y} = -ky-c\dot {y}$ is speed
+>
+>%%TAGS%%
+>
+^scjlua8xff

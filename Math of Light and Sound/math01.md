@@ -1,5 +1,5 @@
 ---
-annotation-target: D:\Code\TCDNotes\Mathematics of Light and Sound\lec\CS7GV2-L1-Waves-Slides.pdf
+annotation-target: CS7GV2-L1-Waves-Slides.pdf
 ---
 
 
