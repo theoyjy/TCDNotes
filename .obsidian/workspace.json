@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4391b458467b22f8",
+        "id": "bbaa5058f470b132",
         "type": "tabs",
         "children": [
           {
-            "id": "ff39746c715c5d59",
+            "id": "ad99532336c33ebd",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Research & Innovation/group/Dissertation Notes.md"
+                "file": "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -118,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research & Innovation/group/Dissertation Notes.md",
+                "file": "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research & Innovation/group/Dissertation Notes.md",
+                "file": "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +181,10 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "ff39746c715c5d59",
+  "active": "d478af17e7aea3ca",
   "lastOpenFiles": [
+    "Research & Innovation/group/Dissertation Notes.md",
+    "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
     "Research & Innovation/wk04 Tech Ethics.md",
     "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
     "Advanced Software Development/wk01.md",
@@ -188,7 +193,6 @@
     "CG/wk03-04 Graphics Programming.md",
     "CV/wk03-Image Pyramids & Segmentation.md",
     "Machine Learning/wk02 - Logistic regression & SVM.md",
-    "Research & Innovation/group/Dissertation Notes.md",
     "Research & Innovation/wk01.md",
     "Research & Innovation/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
     "Research & Innovation/wk03.md",

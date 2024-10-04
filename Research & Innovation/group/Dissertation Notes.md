@@ -578,3 +578,624 @@ annotation-target: TCD-SCSS-DISSERTATION-2022-023.pdf
 >%%TAGS%%
 >
 ^t9t71dcqr48
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:09:28.285Z","updated":"2024-10-03T13:09:28.285Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":23686,"end":23842},{"type":"TextQuoteSelector","exact":"the first of which progresses from the top ofthe screen to halfway down the screen, peeling away the current page to reveal the nextpage of music underneath","prefix":"urn consists of two animations, ","suffix":". Once it is identified that the"}]}]}
+>```
+>%%
+>*%%PREFIX%%urn consists of two animations,%%HIGHLIGHT%% ==the first of which progresses from the top ofthe screen to halfway down the screen, peeling away the current page to reveal the nextpage of music underneath== %%POSTFIX%%. Once it is identified that the*
+>%%LINK%%[[#^246t36y4vao|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^246t36y4vao
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:09:43.136Z","updated":"2024-10-03T13:09:43.136Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":24003,"end":24139},{"type":"TextQuoteSelector","exact":"This second animation continues where the first finished, scrolling down to thebottom of the screen, revealing the rest of the next page","prefix":"e second animation istriggered. ","suffix":". Figure 3.4 depicts the various"}]}]}
+>```
+>%%
+>*%%PREFIX%%e second animation istriggered.%%HIGHLIGHT%% ==This second animation continues where the first finished, scrolling down to thebottom of the screen, revealing the rest of the next page== %%POSTFIX%%. Figure 3.4 depicts the various*
+>%%LINK%%[[#^iiohwrgeax|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^iiohwrgeax
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:11:14.719Z","updated":"2024-10-03T13:11:14.719Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":25611,"end":25709},{"type":"TextQuoteSelector","exact":"Each dot was displayed until 30 frames were capturedwhere valid gaze detection could be performed.","prefix":"y one dot is visible at a time. ","suffix":" If no face was detected from th"}]}]}
+>```
+>%%
+>*%%PREFIX%%y one dot is visible at a time.%%HIGHLIGHT%% ==Each dot was displayed until 30 frames were capturedwhere valid gaze detection could be performed.== %%POSTFIX%%If no face was detected from th*
+>%%LINK%%[[#^s6ru6cz6ta|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^s6ru6cz6ta
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:35:18.651Z","updated":"2024-10-03T13:35:18.651Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":26593,"end":26696},{"type":"TextQuoteSelector","exact":"first to identify if there were any faces present in the frame, using the Visionframework (Apple, 2017)","prefix":"landmark detection wasperformed ","suffix":". If no faces are detected in th"}]}]}
+>```
+>%%
+>*%%PREFIX%%landmark detection wasperformed%%HIGHLIGHT%% ==first to identify if there were any faces present in the frame, using the Visionframework (Apple, 2017)== %%POSTFIX%%. If no faces are detected in th*
+>%%LINK%%[[#^p0oc50dfzz|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^p0oc50dfzz
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:41:52.257Z","updated":"2024-10-03T13:41:52.257Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":29384,"end":29546},{"type":"TextQuoteSelector","exact":"anapproach was taken such that gaze predictions which were outside the screen bounds butwithin a close range to the screen were clamped to the edges of the screen","prefix":"nd SeeSo gaze detection systems ","suffix":".3.2.4 Implementation of scrolli"}]}]}
+>```
+>%%
+>*%%PREFIX%%nd SeeSo gaze detection systems%%HIGHLIGHT%% ==anapproach was taken such that gaze predictions which were outside the screen bounds butwithin a close range to the screen were clamped to the edges of the screen== %%POSTFIX%%.3.2.4 Implementation of scrolli*
+>%%LINK%%[[#^6vndnj0ysm7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6vndnj0ysm7
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:42:00.559Z","updated":"2024-10-03T13:42:00.559Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":29036,"end":29301},{"type":"TextQuoteSelector","exact":"Usingscaling factors to scale the x and y components of the gaze predictions resulted in far moreaccurate predictions. These scaling factors were initialised to default values anddynamically updated to minimise the dot error as the calibration process was completed","prefix":"wards the centre of the screen. ","suffix":".18To help reduce the errors of "}]}]}
+>```
+>%%
+>*%%PREFIX%%wards the centre of the screen.%%HIGHLIGHT%% ==Usingscaling factors to scale the x and y components of the gaze predictions resulted in far moreaccurate predictions. These scaling factors were initialised to default values anddynamically updated to minimise the dot error as the calibration process was completed== %%POSTFIX%%.18To help reduce the errors of*
+>%%LINK%%[[#^3fiq9tpnv9n|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3fiq9tpnv9n
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:42:35.024Z","updated":"2024-10-03T13:42:35.024Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":29683,"end":29731},{"type":"TextQuoteSelector","exact":"adapt the scrolling speed given gaze predictions","prefix":"as implementing thealgorithm to ","suffix":". The screen is conceptuallydivi"}]}]}
+>```
+>%%
+>*%%PREFIX%%as implementing thealgorithm to%%HIGHLIGHT%% ==adapt the scrolling speed given gaze predictions== %%POSTFIX%%. The screen is conceptuallydivi*
+>%%LINK%%[[#^pbr59bto5pc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pbr59bto5pc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:43:14.284Z","updated":"2024-10-03T13:43:14.284Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":29952,"end":30090},{"type":"TextQuoteSelector","exact":"both gaze detection systems was found to be noisy, so a rollingaverage was taken of the userʼs gaze using the last fi\u0000een gaze predictions","prefix":"8. The gazeprediction data from ","suffix":". Using thisrolling average help"}]}]}
+>```
+>%%
+>*%%PREFIX%%8. The gazeprediction data from%%HIGHLIGHT%% ==both gaze detection systems was found to be noisy, so a rollingaverage was taken of the userʼs gaze using the last fi een gaze predictions== %%POSTFIX%%. Using thisrolling average help*
+>%%LINK%%[[#^dh1oea7xo74|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dh1oea7xo74
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:45:22.386Z","updated":"2024-10-03T13:45:22.386Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":30251,"end":30345},{"type":"TextQuoteSelector","exact":"the scrolling speed is graduallyupdated until it reaches the correct speed for the new section","prefix":"ction of the screen to another, ","suffix":". This gradual update of thescro"}]}]}
+>```
+>%%
+>*%%PREFIX%%ction of the screen to another,%%HIGHLIGHT%% ==the scrolling speed is graduallyupdated until it reaches the correct speed for the new section== %%POSTFIX%%. This gradual update of thescro*
+>%%LINK%%[[#^682t3huuj0q|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^682t3huuj0q
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:45:59.241Z","updated":"2024-10-03T13:45:59.241Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":30508,"end":30667},{"type":"TextQuoteSelector","exact":"scrolling is disabled and is only enabled once theuserʼs gaze has dropped below a threshold; in this case the threshold is a quarter of theheight of the screen","prefix":"n the PDF file is first opened, ","suffix":". This threshold is shown in Fig"}]}]}
+>```
+>%%
+>*%%PREFIX%%n the PDF file is first opened,%%HIGHLIGHT%% ==scrolling is disabled and is only enabled once theuserʼs gaze has dropped below a threshold; in this case the threshold is a quarter of theheight of the screen== %%POSTFIX%%. This threshold is shown in Fig*
+>%%LINK%%[[#^u4fdv8lo19l|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^u4fdv8lo19l
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:46:36.022Z","updated":"2024-10-03T13:46:36.022Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":30981,"end":31236},{"type":"TextQuoteSelector","exact":"If no face is detected from the front-facing camera feed then no gazepredictions are supplied, and in this situation the scrolling speed remains constant, underthe assumption that the user is still playing the piece, but has simply glanced awaymomentarily","prefix":"ser looking awayfrom the music. ","suffix":".3.2.5 Implementation of single "}]}]}
+>```
+>%%
+>*%%PREFIX%%ser looking awayfrom the music.%%HIGHLIGHT%% ==If no face is detected from the front-facing camera feed then no gazepredictions are supplied, and in this situation the scrolling speed remains constant, underthe assumption that the user is still playing the piece, but has simply glanced awaymomentarily== %%POSTFIX%%.3.2.5 Implementation of single*
+>%%LINK%%[[#^33yog09hel5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^33yog09hel5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:47:10.474Z","updated":"2024-10-03T13:47:10.474Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":31550,"end":31562},{"type":"TextQuoteSelector","exact":"bottom right","prefix":"ge enters a bounding box in the ","suffix":"19corner of the screen a timer i"}]}]}
+>```
+>%%
+>*%%PREFIX%%ge enters a bounding box in the%%HIGHLIGHT%% ==bottom right== %%POSTFIX%%19corner of the screen a timer i*
+>%%LINK%%[[#^a6bj610vm8n|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^a6bj610vm8n
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:47:44.290Z","updated":"2024-10-03T13:47:44.290Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":31672,"end":31816},{"type":"TextQuoteSelector","exact":" A timer is used as a rough prediction of the length of time it willtake the user to finish reading the music contained within the bounding box.","prefix":"page turnanimation is triggered.","suffix":" The areawhich defines this boun"}]}]}
+>```
+>%%
+>*%%PREFIX%%page turnanimation is triggered.%%HIGHLIGHT%% ==A timer is used as a rough prediction of the length of time it willtake the user to finish reading the music contained within the bounding box.== %%POSTFIX%%The areawhich defines this boun*
+>%%LINK%%[[#^xjmvdfchauf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xjmvdfchauf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:48:26.041Z","updated":"2024-10-03T13:48:26.041Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":32153,"end":32331},{"type":"TextQuoteSelector","exact":"Once a page turn has beentriggered, there is a delay before another page turn can be triggered, to avoid a situationwhere several pages are turned in quick succession by accident","prefix":" using this as an anchor point. ","suffix":".Figure 3.8: Various scrolling s"}]}]}
+>```
+>%%
+>*%%PREFIX%%using this as an anchor point.%%HIGHLIGHT%% ==Once a page turn has beentriggered, there is a delay before another page turn can be triggered, to avoid a situationwhere several pages are turned in quick succession by accident== %%POSTFIX%%.Figure 3.8: Various scrolling s*
+>%%LINK%%[[#^rjmnkl0xgfm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^rjmnkl0xgfm
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:51:13.764Z","updated":"2024-10-03T13:51:13.764Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":34353,"end":34390},{"type":"TextQuoteSelector","exact":"Evaluation of the EyeGaze application","prefix":"bounding boxes to be larger.214 ","suffix":"4.1 Evaluation approachWhen desi"}]}]}
+>```
+>%%
+>*%%PREFIX%%bounding boxes to be larger.214%%HIGHLIGHT%% ==Evaluation of the EyeGaze application== %%POSTFIX%%4.1 Evaluation approachWhen desi*
+>%%LINK%%[[#^4e2kp38xn7o|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4e2kp38xn7o
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T13:51:21.285Z","updated":"2024-10-03T13:51:21.285Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":34577,"end":34596},{"type":"TextQuoteSelector","exact":"real-world scenario","prefix":"ly applied to this use case ina ","suffix":". To effectively evaluate this, "}]}]}
+>```
+>%%
+>*%%PREFIX%%ly applied to this use case ina%%HIGHLIGHT%% ==real-world scenario== %%POSTFIX%%. To effectively evaluate this,*
+>%%LINK%%[[#^tnp1hprblx|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tnp1hprblx
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:12:30.387Z","updated":"2024-10-03T14:12:30.387Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":34905,"end":35139},{"type":"TextQuoteSelector","exact":"There were severaldifferent aspects of the application to evaluate: the effectiveness of the page-turningsystems, user preference between the various page-turning systems and the performanceof the two different gaze detection systems.","prefix":"users had with the application. ","suffix":" A page-turning system can be co"}]}]}
+>```
+>%%
+>*%%PREFIX%%users had with the application.%%HIGHLIGHT%% ==There were severaldifferent aspects of the application to evaluate: the effectiveness of the page-turningsystems, user preference between the various page-turning systems and the performanceof the two different gaze detection systems.== %%POSTFIX%%A page-turning system can be co*
+>%%LINK%%[[#^83cjgo3dcvu|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^83cjgo3dcvu
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:18:44.592Z","updated":"2024-10-03T14:18:44.592Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":36607,"end":36694},{"type":"TextQuoteSelector","exact":"Each subject selected their own piece of music and played through their piece sixtimes;","prefix":"rease in gaze detectionaccuracy.","suffix":" using each of the three page-tu"}]}]}
+>```
+>%%
+>*%%PREFIX%%rease in gaze detectionaccuracy.%%HIGHLIGHT%% ==Each subject selected their own piece of music and played through their piece sixtimes;== %%POSTFIX%%using each of the three page-tu*
+>%%LINK%%[[#^2wzkv440ni4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2wzkv440ni4
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:19:30.361Z","updated":"2024-10-03T14:19:30.361Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":37434,"end":37516},{"type":"TextQuoteSelector","exact":" collect data on whether eachpage turn happened early, late or at the correct time","prefix":"sent during the user study would","suffix":".4.1.2 MetricsMeasuring whether "}]}]}
+>```
+>%%
+>*%%PREFIX%%sent during the user study would%%HIGHLIGHT%% ==collect data on whether eachpage turn happened early, late or at the correct time== %%POSTFIX%%.4.1.2 MetricsMeasuring whether*
+>%%LINK%%[[#^tnbfj0mztzo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tnbfj0mztzo
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:20:31.572Z","updated":"2024-10-03T14:20:31.572Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":37530,"end":37701},{"type":"TextQuoteSelector","exact":"Measuring whether page turns were early, late or at the correct time was suitablefor the single and double animation page-turning systems, but not for the scrolling system","prefix":"t the correct time.4.1.2 Metrics","suffix":".In order to record a similar me"}]}]}
+>```
+>%%
+>*%%PREFIX%%t the correct time.4.1.2 Metrics%%HIGHLIGHT%% ==Measuring whether page turns were early, late or at the correct time was suitablefor the single and double animation page-turning systems, but not for the scrolling system== %%POSTFIX%%.In order to record a similar me*
+>%%LINK%%[[#^7t5r624ibej|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7t5r624ibej
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:20:49.935Z","updated":"2024-10-03T14:20:49.935Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":37824,"end":38235},{"type":"TextQuoteSelector","exact":"If the system was scrolling too fast then the music beingplayed would be scrolled off-screen from the top of the screen, leading to the user havingto skip ahead in the piece. Similarly if the system was scrolling too slowly then the userwould reach the bottom of the screen before more music was scrolled on-screen from thebottom, causing a pause in the music as they waited for the scrolling system to catch up","prefix":"aps in the music were recorded. ","suffix":".Although the performance of gaz"}]}]}
+>```
+>%%
+>*%%PREFIX%%aps in the music were recorded.%%HIGHLIGHT%% ==If the system was scrolling too fast then the music beingplayed would be scrolled off-screen from the top of the screen, leading to the user havingto skip ahead in the piece. Similarly if the system was scrolling too slowly then the userwould reach the bottom of the screen before more music was scrolled on-screen from thebottom, causing a pause in the music as they waited for the scrolling system to catch up== %%POSTFIX%%.Although the performance of gaz*
+>%%LINK%%[[#^249oo1aceq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^249oo1aceq
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:21:33.242Z","updated":"2024-10-03T14:21:33.242Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":38620,"end":38811},{"type":"TextQuoteSelector","exact":"The arithmetic mean of the distances incentimetres from each of these gaze estimation points to the respective ground truthpoints gives an indication of the error of the gaze detection system","prefix":"d for each dot shown on-screen. ","suffix":". If each individual gaze23estim"}]}]}
+>```
+>%%
+>*%%PREFIX%%d for each dot shown on-screen.%%HIGHLIGHT%% ==The arithmetic mean of the distances incentimetres from each of these gaze estimation points to the respective ground truthpoints gives an indication of the error of the gaze detection system== %%POSTFIX%%. If each individual gaze23estim*
+>%%LINK%%[[#^z20p2wwejj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z20p2wwejj
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:22:33.429Z","updated":"2024-10-03T14:22:33.429Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":39239,"end":39370},{"type":"TextQuoteSelector","exact":"The mean of the distances from all gaze𝑔𝑡 = (𝑔𝑡1 ,..., 𝑔𝑡10)estimations relevant to a particular calibration dot is given as:","prefix":"\udc61𝑝𝑌}calibration dots to be: . ","suffix":"𝑔𝑡𝑝𝑑𝑜𝑡𝑒𝑟𝑟𝑜𝑟𝑝 = 𝑚=13"}]}]}
+>```
+>%%
+>*%%PREFIX%%�𝑝𝑌}calibration dots to be: .%%HIGHLIGHT%% ==The mean of the distances from all gaze𝑔𝑡 = (𝑔𝑡1 ,..., 𝑔𝑡10)estimations relevant to a particular calibration dot is given as:== %%POSTFIX%%𝑔𝑡𝑝𝑑𝑜𝑡𝑒𝑟𝑟𝑜𝑟𝑝 = 𝑚=13*
+>%%LINK%%[[#^3ggxj0rbtk9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3ggxj0rbtk9
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:22:53.236Z","updated":"2024-10-03T14:22:53.236Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":39473,"end":39519},{"type":"TextQuoteSelector","exact":"for the of all calibration dots to be given as","prefix":"\udc4c − 𝑒𝑠𝑡𝑝𝑚𝑌)230This allows ","suffix":":𝑑𝑜𝑡𝑒𝑟𝑟𝑜𝑟𝑑𝑜𝑡𝑒𝑟𝑟𝑜\ud835"}]}]}
+>```
+>%%
+>*%%PREFIX%%� − 𝑒𝑠𝑡𝑝𝑚𝑌)230This allows%%HIGHLIGHT%% ==for the of all calibration dots to be given as== %%POSTFIX%%:𝑑𝑜𝑡𝑒𝑟𝑟𝑜𝑟𝑑𝑜𝑡𝑒𝑟𝑟𝑜�*
+>%%LINK%%[[#^n04b73wzbbe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^n04b73wzbbe
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:23:30.826Z","updated":"2024-10-03T14:23:30.826Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":39811,"end":39991},{"type":"TextQuoteSelector","exact":"Another metric we will be using is thex axis skew, which will be the arithmetic mean of the x position distances from each gazeestimation point to the respective ground truth point","prefix":" metric (Kar & Corcoran, 2018). ","suffix":". Similarly we will use a y axis"}]}]}
+>```
+>%%
+>*%%PREFIX%%metric (Kar & Corcoran, 2018).%%HIGHLIGHT%% ==Another metric we will be using is thex axis skew, which will be the arithmetic mean of the x position distances from each gazeestimation point to the respective ground truth point== %%POSTFIX%%. Similarly we will use a y axis*
+>%%LINK%%[[#^2swnloce15h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2swnloce15h
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:23:47.744Z","updated":"2024-10-03T14:23:47.744Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":39700,"end":39762},{"type":"TextQuoteSelector","exact":" distance function is measured in centimetres instead ofpixels","prefix":"th the difference being that the","suffix":" for the doterror metric (Kar & "}]}]}
+>```
+>%%
+>*%%PREFIX%%th the difference being that the%%HIGHLIGHT%% ==distance function is measured in centimetres instead ofpixels== %%POSTFIX%%for the doterror metric (Kar &*
+>%%LINK%%[[#^jb19eanvzjc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jb19eanvzjc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:29:22.296Z","updated":"2024-10-03T14:29:22.296Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":44737,"end":44903},{"type":"TextQuoteSelector","exact":"scrolling system was preferred by most users, with 66% of users ranking itas their most preferred page-turning system and no users ranking it as their leastpreferred.","prefix":"e questionnaireresults that the ","suffix":" Figure 4.1 depicts userʼs exper"}]}]}
+>```
+>%%
+>*%%PREFIX%%e questionnaireresults that the%%HIGHLIGHT%% ==scrolling system was preferred by most users, with 66% of users ranking itas their most preferred page-turning system and no users ranking it as their leastpreferred.== %%POSTFIX%%Figure 4.1 depicts userʼs exper*
+>%%LINK%%[[#^n4q09gzxba|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^n4q09gzxba
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:30:16.175Z","updated":"2024-10-03T14:30:16.175Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":45621,"end":45889},{"type":"TextQuoteSelector","exact":"One of the possiblecauses for this is an imperfect implementation of the trigger mechanism. As described inChapter 3, a rolling average of the last 15 gaze predictions was used to smooth out noise inthe gaze predictions. This can cause unexpected results in edge cases","prefix":"e turn was triggered too early. ","suffix":".One such edge case would be if "}]}]}
+>```
+>%%
+>*%%PREFIX%%e turn was triggered too early.%%HIGHLIGHT%% ==One of the possiblecauses for this is an imperfect implementation of the trigger mechanism. As described inChapter 3, a rolling average of the last 15 gaze predictions was used to smooth out noise inthe gaze predictions. This can cause unexpected results in edge cases== %%POSTFIX%%.One such edge case would be if*
+>%%LINK%%[[#^oqwsddtchwn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^oqwsddtchwn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:32:02.479Z","updated":"2024-10-03T14:32:02.479Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":46643,"end":46805},{"type":"TextQuoteSelector","exact":"Edge cases such as these were observedduring the user study, where a pianist glancing at the positioning of their right handregularly triggered an early page turn","prefix":"tom right corner of the screen. ","suffix":".There are several ways that edg"}]}]}
+>```
+>%%
+>*%%PREFIX%%tom right corner of the screen.%%HIGHLIGHT%% ==Edge cases such as these were observedduring the user study, where a pianist glancing at the positioning of their right handregularly triggered an early page turn== %%POSTFIX%%.There are several ways that edg*
+>%%LINK%%[[#^esfk5canozg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^esfk5canozg
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:33:32.169Z","updated":"2024-10-03T14:33:32.169Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":47091,"end":47288},{"type":"TextQuoteSelector","exact":"A more robust solution would be to identify the types of eye movement the gazepredictions describe. If there is a rapid and considerable change in the gaze predictionsthis is likely to be a saccade","prefix":"g box for the trigger mechanism.","suffix":", an abrupt movement of the eye "}]}]}
+>```
+>%%
+>*%%PREFIX%%g box for the trigger mechanism.%%HIGHLIGHT%% ==A more robust solution would be to identify the types of eye movement the gazepredictions describe. If there is a rapid and considerable change in the gaze predictionsthis is likely to be a saccade== %%POSTFIX%%, an abrupt movement of the eye*
+>%%LINK%%[[#^4rws0qthxc5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4rws0qthxc5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:34:08.025Z","updated":"2024-10-03T14:34:08.025Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":47718,"end":47902},{"type":"TextQuoteSelector","exact":"did not causeas many issues for the scrolling system. One possible explanation for the scrolling systemhandling these cases is the gradual increases from one scrolling speed to another","prefix":"he double animation system, but ","suffix":".Another possible cause for the "}]}]}
+>```
+>%%
+>*%%PREFIX%%he double animation system, but%%HIGHLIGHT%% ==did not causeas many issues for the scrolling system. One possible explanation for the scrolling systemhandling these cases is the gradual increases from one scrolling speed to another== %%POSTFIX%%.Another possible cause for the*
+>%%LINK%%[[#^wydf78y7xa|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wydf78y7xa
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:35:58.601Z","updated":"2024-10-03T14:35:58.601Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":48145,"end":48754},{"type":"TextQuoteSelector","exact":"This timer wasimplemented with a constant time for simplicity, but the speed at which a user reads thesheet music varies and is dependent on the tempo of the piece as well as the formatting ofthe sheet music. A simple but perhaps more effective solution might be a dynamicallychanging timer with the duration of the timer being dependent on the length of time ittakes the user to read the entire sheet of music. A more elegant solution could be to usecomputer vision techniques to identify the systems of music within the page and form apredictive model of where the user will be looking throughout the page. ","prefix":"ight hand corner of the screen. ","suffix":"This model canthen be updated wi"}]}]}
+>```
+>%%
+>*%%PREFIX%%ight hand corner of the screen.%%HIGHLIGHT%% ==This timer wasimplemented with a constant time for simplicity, but the speed at which a user reads thesheet music varies and is dependent on the tempo of the piece as well as the formatting ofthe sheet music. A simple but perhaps more effective solution might be a dynamicallychanging timer with the duration of the timer being dependent on the length of time ittakes the user to read the entire sheet of music. A more elegant solution could be to usecomputer vision techniques to identify the systems of music within the page and form apredictive model of where the user will be looking throughout the page.== %%POSTFIX%%This model canthen be updated wi*
+>%%LINK%%[[#^kbn704mlbf|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kbn704mlbf
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:37:52.132Z","updated":"2024-10-03T14:37:52.132Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":48991,"end":49492},{"type":"TextQuoteSelector","exact":"The scrolling system caused more jumps in the music than pauses in the music,where jumps in the music would be caused by the system scrolling too fast. One of thepossible reasons for this could be the design decision taken to only scroll the music in asingle direction. A simple solution would be to allow scrolling of the music in bothdirections, such that if a user was looking at the top of the screen the music would scrollfrom top to bottom, revealing music from previous pages in the sheet music","prefix":"ion model (Tabone et al., 2020).","suffix":".304.3.2 Gaze detection systemsC"}]}]}
+>```
+>%%
+>*%%PREFIX%%ion model (Tabone et al., 2020).%%HIGHLIGHT%% ==The scrolling system caused more jumps in the music than pauses in the music,where jumps in the music would be caused by the system scrolling too fast. One of thepossible reasons for this could be the design decision taken to only scroll the music in asingle direction. A simple solution would be to allow scrolling of the music in bothdirections, such that if a user was looking at the top of the screen the music would scrollfrom top to bottom, revealing music from previous pages in the sheet music== %%POSTFIX%%.304.3.2 Gaze detection systemsC*
+>%%LINK%%[[#^5r6qrg7o2xy|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5r6qrg7o2xy
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:38:12.214Z","updated":"2024-10-03T14:38:12.214Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":49594,"end":49625},{"type":"TextQuoteSelector","exact":"SeeSo isgenerally more accurate","prefix":"ion systems it is apparent that ","suffix":", as shown by the lower dot erro"}]}]}
+>```
+>%%
+>*%%PREFIX%%ion systems it is apparent that%%HIGHLIGHT%% ==SeeSo isgenerally more accurate== %%POSTFIX%%, as shown by the lower dot erro*
+>%%LINK%%[[#^zc21to25fe|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zc21to25fe
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:38:42.939Z","updated":"2024-10-03T14:38:42.939Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":49673,"end":49777},{"type":"TextQuoteSelector","exact":"The increase inaccuracy doesnʼt appear to be correlated to an increase in page-turning performancethough","prefix":"e lower dot error in Table 4.4. ","suffix":"; SeeSo performs better than iTr"}]}]}
+>```
+>%%
+>*%%PREFIX%%e lower dot error in Table 4.4.%%HIGHLIGHT%% ==The increase inaccuracy doesnʼt appear to be correlated to an increase in page-turning performancethough== %%POSTFIX%%; SeeSo performs better than iTr*
+>%%LINK%%[[#^tn3hlulkkjc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tn3hlulkkjc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:38:48.242Z","updated":"2024-10-03T14:38:48.242Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":49967,"end":50133},{"type":"TextQuoteSelector","exact":"This might suggest that the implementation of a page-turning systemmatters more than the accuracy of the gaze detections system with regard to page-turningperformance","prefix":" music forthe scrolling system. ","suffix":".Table 4.4 also shows that the a"}]}]}
+>```
+>%%
+>*%%PREFIX%%music forthe scrolling system.%%HIGHLIGHT%% ==This might suggest that the implementation of a page-turning systemmatters more than the accuracy of the gaze detections system with regard to page-turningperformance== %%POSTFIX%%.Table 4.4 also shows that the a*
+>%%LINK%%[[#^rguwfbunf3|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^rguwfbunf3
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:40:04.254Z","updated":"2024-10-03T14:40:04.254Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":51552,"end":51670},{"type":"TextQuoteSelector","exact":"it was noted that as the distance from thepoint of regard to the camera increased the accuracy of the system decreased","prefix":"hich introduced iTracker, where ","suffix":".31It should also be noted that "}]}]}
+>```
+>%%
+>*%%PREFIX%%hich introduced iTracker, where%%HIGHLIGHT%% ==it was noted that as the distance from thepoint of regard to the camera increased the accuracy of the system decreased== %%POSTFIX%%.31It should also be noted that*
+>%%LINK%%[[#^jvgn4tqqvy|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jvgn4tqqvy
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:40:52.421Z","updated":"2024-10-03T14:40:52.421Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":51706,"end":52026},{"type":"TextQuoteSelector","exact":"performance of both gaze detection systems mayhave suffered due to the unrestricted lighting conditions during the user study, as well asthe unrestricted relative positioning of the user and the device. A lack of person-specificcalibration or training of the two gaze detection systems could also be a contributingfactor","prefix":"t should also be noted that the ","suffix":".One possible solution to this d"}]}]}
+>```
+>%%
+>*%%PREFIX%%t should also be noted that the%%HIGHLIGHT%% ==performance of both gaze detection systems mayhave suffered due to the unrestricted lighting conditions during the user study, as well asthe unrestricted relative positioning of the user and the device. A lack of person-specificcalibration or training of the two gaze detection systems could also be a contributingfactor== %%POSTFIX%%.One possible solution to this d*
+>%%LINK%%[[#^2etzb8eswwn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2etzb8eswwn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:43:55.486Z","updated":"2024-10-03T14:43:55.486Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":52136,"end":52434},{"type":"TextQuoteSelector","exact":"to design the application to be used with the tablet deviceupside down. The front-facing camera would then be at the bottom of the screen, muchcloser to the bottom right hand corner of the screen and potentially resulting in increasedaccuracy in the gaze predictions in the bottom right hand corner","prefix":"screenfor page-turning would be ","suffix":".4.3.3 SummaryThe performance of"}]}]}
+>```
+>%%
+>*%%PREFIX%%screenfor page-turning would be%%HIGHLIGHT%% ==to design the application to be used with the tablet deviceupside down. The front-facing camera would then be at the bottom of the screen, muchcloser to the bottom right hand corner of the screen and potentially resulting in increasedaccuracy in the gaze predictions in the bottom right hand corner== %%POSTFIX%%.4.3.3 SummaryThe performance of*
+>%%LINK%%[[#^bvw3aq3xr4r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bvw3aq3xr4r
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:44:52.766Z","updated":"2024-10-03T14:44:52.766Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":52881,"end":52946},{"type":"TextQuoteSelector","exact":" scrolling system requires the least accuracy in gaze predictions","prefix":"m the gaze detectionsystems. The","suffix":", where thesystem only needs to "}]}]}
+>```
+>%%
+>*%%PREFIX%%m the gaze detectionsystems. The%%HIGHLIGHT%% ==scrolling system requires the least accuracy in gaze predictions== %%POSTFIX%%, where thesystem only needs to*
+>%%LINK%%[[#^twf8jv248x|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^twf8jv248x
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:47:07.908Z","updated":"2024-10-03T14:47:07.908Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":53196,"end":53421},{"type":"TextQuoteSelector","exact":"The single animation systemrequired the most accuracy from the gaze detection systems, with the smallest boundingbox for triggering animations of the three systems and correspondingly the worstperformance of the three systems","prefix":"r each animation in Figure 3.4. ","suffix":". Trends were identified in the "}]}]}
+>```
+>%%
+>*%%PREFIX%%r each animation in Figure 3.4.%%HIGHLIGHT%% ==The single animation systemrequired the most accuracy from the gaze detection systems, with the smallest boundingbox for triggering animations of the three systems and correspondingly the worstperformance of the three systems== %%POSTFIX%%. Trends were identified in the*
+>%%LINK%%[[#^5eed36l4da5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5eed36l4da5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:50:46.986Z","updated":"2024-10-03T14:50:46.986Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":53423,"end":53620},{"type":"TextQuoteSelector","exact":"Trends were identified in the distribution of gazeprediction errors, where a correlation was drawn between the on-screen location of auser's point of regard and the accuracy of the gaze prediction.","prefix":"rformance of the three systems. ","suffix":" Additionally severalpossible im"}]}]}
+>```
+>%%
+>*%%PREFIX%%rformance of the three systems.%%HIGHLIGHT%% ==Trends were identified in the distribution of gazeprediction errors, where a correlation was drawn between the on-screen location of auser's point of regard and the accuracy of the gaze prediction.== %%POSTFIX%%Additionally severalpossible im*
+>%%LINK%%[[#^cwa76sarru|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^cwa76sarru
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:55:29.273Z","updated":"2024-10-03T14:55:29.273Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":55608,"end":55644},{"type":"TextQuoteSelector","exact":"ncorporating audio as an extra input","prefix":" focus on; a major such area isi","suffix":" in determining a user's positio"}]}]}
+>```
+>%%
+>*%%PREFIX%%focus on; a major such area isi%%HIGHLIGHT%% ==ncorporating audio as an extra input== %%POSTFIX%%in determining a user's positio*
+>%%LINK%%[[#^bk26eksm2bl|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bk26eksm2bl
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-03T14:56:06.403Z","updated":"2024-10-03T14:56:06.403Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":56012,"end":56173},{"type":"TextQuoteSelector","exact":"Another situation where audio would be useful is determining when a user hasglanced away from the music and when the user has stopped playing the piece altogethe","prefix":"amining changesin audio levels. ","suffix":"r. With the33current implementat"}]}]}
+>```
+>%%
+>*%%PREFIX%%amining changesin audio levels.%%HIGHLIGHT%% ==Another situation where audio would be useful is determining when a user hasglanced away from the music and when the user has stopped playing the piece altogethe== %%POSTFIX%%r. With the33current implementat*
+>%%LINK%%[[#^wtpb3rk9jk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wtpb3rk9jk
