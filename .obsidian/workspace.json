@@ -4,31 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "89ffb73d811830b0",
+        "id": "d082af2dac9f85f5",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ea143134e1ee71",
+            "id": "f9cfb3b8d8ade1e9",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Math of Light and Sound/L3-Simulation.md"
+                "file": "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "a92798a2fafe6865",
+            "id": "5f1f5b7893928049",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Math of Light and Sound/L3-Simulation.md"
+                "file": "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canv",
+                "query": "logistic loss function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -129,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math of Light and Sound/L3-Simulation.md",
+                "file": "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math of Light and Sound/L3-Simulation.md",
+                "file": "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,54 +195,54 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "a92798a2fafe6865",
+  "active": "f9cfb3b8d8ade1e9",
   "lastOpenFiles": [
-    "Math of Light and Sound/L3-Simulation-Notes.md",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006182713264.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006175411750.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006173741114.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006172950631.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006172930308.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006171245115.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006170040657.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006165920659.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006165807564.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006165249944.webp",
+    "wk04- K-Nearest Neighbors & Neural Nets-20241006165059630.webp",
+    "Machine Learning/Lectures/week04/week2.csv",
+    "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
+    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
+    "Machine Learning/wk02 - Logistic regression & SVM.md",
+    "Machine Learning/Lectures/week04/lec.py",
+    "Machine Learning/wk01 - Linear Regression.md",
+    "Machine Learning/Lectures/week04/neuralnets.pdf",
+    "Machine Learning/Lectures/week04/neuralnets.pdf.crdownload",
+    "Machine Learning/Lectures/week04/predictors.pdf",
+    "Machine Learning/Lectures/week04/predictors.pdf.crdownload",
+    "Machine Learning/Lectures/week04",
+    "Machine Learning/Lectures/新建文件夹",
+    "Machine Learning/Weekly Assignments/week3/week3.csv",
+    "Machine Learning/Weekly Assignments/week3/code.ipynb",
     "Math of Light and Sound/L3-Simulation.md",
+    "Math of Light and Sound/L3-Simulation-Notes.md",
     "Math of Light and Sound/L2-Wave-Equation.md",
     "Math of Light and Sound/math01.md",
     "Math of Light and Sound/wk01.md",
     "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
-    "Math of Light and Sound/lec/CS7GV2-L3-Simulation.pdf",
     "Research & Innovation/group/Dissertation Notes.md",
-    "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
     "Research & Innovation/wk04 Tech Ethics.md",
     "Advanced Software Development/wk01.md",
     "Advanced Software Development/wk02.md",
     "CG/wk02 Graphic Pipeline.md",
     "CG/wk03-04 Graphics Programming.md",
     "CV/wk03-Image Pyramids & Segmentation.md",
-    "Machine Learning/wk02 - Logistic regression & SVM.md",
     "Research & Innovation/wk01.md",
     "Research & Innovation/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
     "Research & Innovation/wk03.md",
     "Research & Innovation/wk03 Innovation Plan.md",
-    "Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf",
-    "Research & Innovation/slides/ZaraBusinessModelCanvas.avif",
-    "Machine Learning/wk01 - Linear Regression.md",
     "Advanced Software Development/Project.md",
     "Advanced Software Development/Project Dev Process.md",
     "CV/wk01 - - Unit1Intro.md",
     "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "CG/Wk01.md",
-    "Math of Light and Sound/lec/CS7GV2-L1-Waves-Slides.pdf",
-    "Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf",
-    "Math of Light and Sound/lec",
-    "Mathematics of Light and Sound/新建文件夹",
-    "Mathematics of Light and Sound/CS7GV2-L2-Wave-Equation.pdf",
-    "Mathematics of Light and Sound/CS7GV2-L1-Waves-Slides.pdf",
-    "Research & Innovation/slides/GSbusiness model canvas-pt3.pdf",
-    "Research & Innovation/slides/GSbusiness model canvas-pt2.pdf",
-    "CG/labs/lab3/Project1/glew-1.10.0/doc/ogl_sm.jpg",
-    "CG/labs/lab3/Project1/glew-1.10.0/doc/new.png",
-    "CG/labs/lab3/Project1/glew-1.10.0/doc/glew.png",
-    "CG/labs/lab1/Project1/glew-1.10.0/doc/ogl_sm.jpg",
-    "CG/labs/lab1/Project1/glew-1.10.0/doc/new.png",
-    "CG/labs/lab1/Project1/glew-1.10.0/doc/glew.png",
-    "CG/labs/lab1/Screenshot 2024-09-17 132144.png",
-    "CG/labs/lab1/Screenshot 2024-09-11 130143.png",
-    "Machine Learning/Weekly Assignments/week2/penalty0_001.png",
-    "Machine Learning/Weekly Assignments/week2/Answers to Week2 Assignment.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",

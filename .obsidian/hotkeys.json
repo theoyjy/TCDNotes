@@ -31,14 +31,6 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
   "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
@@ -105,6 +97,15 @@
         "Alt"
       ],
       "key": "."
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "="
     }
   ]
 }
