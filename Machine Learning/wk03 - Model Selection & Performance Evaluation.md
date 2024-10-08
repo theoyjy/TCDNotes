@@ -23,7 +23,8 @@ scores = cross_val_score(model, X, y, cv=5, scoring=’neg_mean_squared_error’
 print(scores) 
 print(”Accuracy: %0.2f (+/− %0.2f)” % (scores.mean(), scores.std())) 
 
-from sklearn.model_selection import KFold kf = KFold(n_splits=5) 
+from sklearn.model_selection import KFold 
+kf = KFold(n_splits=5) 
 for train, test in kf.split(X): 
 	from sklearn.linear_model import LinearRegression 
 	model = LinearRegression().fit(X[train], y[train]) 
@@ -174,7 +175,6 @@ Even though We reach the lowest mean square error, that doesn't necessarily mean
 import numpy as np
 x = np.arrange(0, 1, 0.01).reshape(-1, 1)
 y = np.random.normal(0, 1.0, x.size).reshape(-1, 1)
-
 ```
 
 
