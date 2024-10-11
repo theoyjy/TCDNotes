@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "342a761d7d2dd057",
+        "id": "363af28555a61f5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d74d765df8938bd0",
+            "id": "3f20099ec93de3e6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Math of Light and Sound/L3-Simulation-Notes.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math of Light and Sound/L3-Simulation-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math of Light and Sound/L3-Simulation-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +174,11 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "d74d765df8938bd0",
+  "active": "3f20099ec93de3e6",
   "lastOpenFiles": [
+    "Resources/wk04-Feature Detection and Matching-20241009094013046.webp",
+    "Resources/wk04-Feature Detection and Matching-20241009092541707.webp",
+    "Math of Light and Sound/L3-Simulation-Notes.md",
     "CV/lec/3_CS7GV1-CV Image Pyramids and Segmentation.pdf",
     "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
     "CV/lec/2_CS7GV1-CV-  Linear Filtering and Edge Detection.pdf",
@@ -197,7 +196,6 @@
     "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008224707.png",
     "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008224823.png",
     "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008225245.png",
-    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008225317.png",
     "Machine Learning/Weekly Assignments/week3/images",
     "Machine Learning/Weekly Assignments/week3/新建文件夹",
     "Research & Innovation/wk04 Tech Ethics.md",
@@ -205,7 +203,6 @@
     "CV/wk05.md",
     "CV/wk04-Feature Detection and Matching.md",
     "CV/lec/5_CS7GV1-CV Camera Models and Depth Estimation.pdf",
-    "CV/lec/5_CS7GV1-CV Camera Models and Depth Estimation.pdf.crdownload",
     "CV/wk01 - - Unit1Intro.md",
     "CV/wk03-Image Pyramids & Segmentation.md",
     "Excalidraw/Drawing 2024-09-25 12.12.09.excalidraw.md",
@@ -221,7 +218,6 @@
     "Machine Learning/wk01 - Linear Regression.md",
     "Machine Learning/Weekly Assignments/week2/Answers to Week2 Assignment.md",
     "Math of Light and Sound/L3-Simulation.md",
-    "Math of Light and Sound/L3-Simulation-Notes.md",
     "Math of Light and Sound/L2-Wave-Equation.md",
     "Math of Light and Sound/math01.md",
     "Math of Light and Sound/wk01.md",
