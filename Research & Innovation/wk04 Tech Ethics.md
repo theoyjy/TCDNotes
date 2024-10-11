@@ -1,5 +1,5 @@
 ---
-annotation-target: slides\EthicsSlides.pdf
+annotation-target: EthicsSlides.pdf
 ---
 
 

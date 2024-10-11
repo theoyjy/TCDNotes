@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0b2dfbee5058b0",
+        "id": "342a761d7d2dd057",
         "type": "tabs",
         "children": [
           {
-            "id": "602f0d83489658dc",
+            "id": "d74d765df8938bd0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224255321.webp"
+                "file": "Math of Light and Sound/L3-Simulation-Notes.md"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Penalty",
+                "query": "feature detection and matching",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "4b84a8e37165cb8c",
+            "id": "164fd35cf7fd4048",
             "type": "leaf",
             "state": {
               "type": "periodic-para",
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5110321044922
+    "width": 305.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224255321.webp",
+                "file": "Math of Light and Sound/L3-Simulation-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224255321.webp",
+                "file": "Math of Light and Sound/L3-Simulation-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,36 +178,44 @@
       "periodic-para:LifeOS": false
     }
   },
-  "active": "d478af17e7aea3ca",
+  "active": "d74d765df8938bd0",
   "lastOpenFiles": [
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007223607956.webp",
+    "CV/lec/3_CS7GV1-CV Image Pyramids and Segmentation.pdf",
+    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
+    "CV/lec/2_CS7GV1-CV-  Linear Filtering and Edge Detection.pdf",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "Research & Innovation/slides/GSbusiness model canvas-pt2.pdf",
+    "Machine Learning/Weekly Assignments/week2/marking/marking2.png",
+    "Machine Learning/Weekly Assignments/week2/marking2.png",
+    "Machine Learning/Weekly Assignments/week2/Pasted image 20241010002939.png",
+    "Machine Learning/Weekly Assignments/week2/marking/Marking Critiria.png",
+    "Machine Learning/Weekly Assignments/week2/marking",
+    "Machine Learning/Weekly Assignments/week2/Untitled",
+    "Machine Learning/Weekly Assignments/week2/Marking Critiria.png",
+    "Machine Learning/Weekly Assignments/week2/Pasted image 20241010002804.png",
+    "Machine Learning/Weekly Assignments/week3/images.7z",
+    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008224707.png",
+    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008224823.png",
+    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008225245.png",
+    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008225317.png",
+    "Machine Learning/Weekly Assignments/week3/images",
+    "Machine Learning/Weekly Assignments/week3/新建文件夹",
+    "Research & Innovation/wk04 Tech Ethics.md",
+    "Research & Innovation/Research Library.md",
+    "CV/wk05.md",
+    "CV/wk04-Feature Detection and Matching.md",
+    "CV/lec/5_CS7GV1-CV Camera Models and Depth Estimation.pdf",
+    "CV/lec/5_CS7GV1-CV Camera Models and Depth Estimation.pdf.crdownload",
+    "CV/wk01 - - Unit1Intro.md",
+    "CV/wk03-Image Pyramids & Segmentation.md",
+    "Excalidraw/Drawing 2024-09-25 12.12.09.excalidraw.md",
+    "Excalidraw/validate access of editing.md",
+    "PlotDatapng.md",
     "Machine Learning/Weekly Assignments/week3/Week 3 Answers.md",
     "CG/wk03-04 Graphics Programming.md",
-    "Excalidraw/validate access of editing.md",
-    "Excalidraw/Drawing 2024-09-25 12.12.09.excalidraw.md",
     "CG/wk05-geometry.md",
     "wk05-Geometry.md",
-    "CG/CS7GV6_GeometricTransformations.pdf",
-    "CG/CS7GV6_GeometricTransformations.pdf.crdownload",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007223905549.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224255321.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224241541.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224227989.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224211475.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224153790.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224136388.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007224021276.webp",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers-20241007223954360.webp",
-    "Machine Learning/Weekly Assignments/week3/C_0_001_Ridge.png.~tmp",
-    "Machine Learning/Weekly Assignments/week3/C_0_01_Ridge.png.~tmp",
-    "Machine Learning/Weekly Assignments/week3/PlotData.png.~tmp",
-    "Machine Learning/Weekly Assignments/week3/C_1000_Ridge.png~RF1238ff03.TMP",
-    "Machine Learning/Weekly Assignments/week3/C_1000_Ridge.png.~tmp",
-    "Machine Learning/Weekly Assignments/week3/C_100_Ridge.png.~tmp",
-    "Machine Learning/Weekly Assignments/week3/C_100_lasso.png.~tmp",
-    "Machine Learning/Weekly Assignments/week3/C_90_lasso.png~RF12382359.TMP",
     "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
-    "PlotDatapng.md",
     "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
     "Machine Learning/wk02 - Logistic regression & SVM.md",
     "Machine Learning/wk01 - Linear Regression.md",
@@ -218,13 +226,6 @@
     "Math of Light and Sound/math01.md",
     "Math of Light and Sound/wk01.md",
     "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
-    "Research & Innovation/group/Dissertation Notes.md",
-    "Research & Innovation/wk04 Tech Ethics.md",
-    "Advanced Software Development/wk01.md",
-    "Advanced Software Development/wk02.md",
-    "CG/wk02 Graphic Pipeline.md",
-    "CV/wk03-Image Pyramids & Segmentation.md",
-    "Research & Innovation/wk01.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",

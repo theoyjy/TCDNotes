@@ -426,7 +426,7 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
-  "pdfGroupPages": false,
+  "pdfGroupPages": true,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
   "pdfNumRows": 1,

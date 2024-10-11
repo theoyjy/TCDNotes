@@ -39,3 +39,19 @@ This method achieves all the invariance, better than Harris. Also achieve the fe
    Compare the value of a pixel not only with its own neighbors, but also across all DOG
    For example, 3 DOG, 27 points in total, center is 1 point, so we have to compare 1 points to other 26 points.
 - [ ] Dive into the steps
+
+Key point  Localization
+![[wk04-Feature Detection and Matching-20241009093104592.webp]]
+
+3. Orientation Assignment: calculate the rotation and rotate back
+   ![[wk04-Feature Detection and Matching-20241009092541707.webp|500]]
+
+4. The local Image Descriptor
+   ![[wk04-Feature Detection and Matching-20241009094013046.webp]]
+   
+   
+
+# SURF (self-study)
+
+
+
