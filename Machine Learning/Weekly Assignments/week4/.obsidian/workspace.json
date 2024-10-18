@@ -16,7 +16,9 @@
                 "file": "Week4 Answer.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Week4 Answer"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5f3130cb314ef263",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week4 Answer"
             }
           },
           {
@@ -106,7 +115,9 @@
                 "file": "Week4 Answer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Week4 Answer"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "Week4 Answer.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week4 Answer"
             }
           },
           {
@@ -135,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -159,6 +176,10 @@
   },
   "active": "e6585e79afc963ee",
   "lastOpenFiles": [
+    "Pasted image 20241018101557.png",
+    "Pasted image 20241018101144.png",
+    "Pasted image 20241018095824.png",
+    "Pasted image 20241018011225.png",
     "Pasted image 20241018005458.png",
     "Pasted image 20241018002138.png",
     "Pasted image 20241018000735.png",
@@ -168,10 +189,6 @@
     "Pasted image 20241017233818.png",
     "week4_questions.pdf",
     "Week4 Answer.md",
-    "Pasted image 20241017233521.png",
-    "Pasted image 20241017224935.png",
-    "Pasted image 20241017223918.png",
-    "Pasted image 20241017223827.png",
     "Zishuo_week4_part1.csv",
     "week4_2.csv"
   ]

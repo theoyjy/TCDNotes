@@ -1,9 +1,10 @@
 {
-  "accentColor": "#009dff",
-  "theme": "obsidian",
+  "accentColor": "#ffa914",
+  "theme": "moonstone",
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "snippets"
   ],
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "nativeMenus": false
 }
