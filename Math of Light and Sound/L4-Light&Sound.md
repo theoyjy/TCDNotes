@@ -56,10 +56,17 @@ $$
 $$
 Vector Calculus is concerned with differentiation and integration of such function. Space and time can be omitted to improve readability but remember them.
 ⭐⭐⭐⭐⭐
-- **Divergence**
+- **Divergence** $\nabla$
 - **Curl**
 
+### Physical Vector Field
+Electricity and magnetism comprise one of the fundamental forces in nature
+- Electric field $\mathbf{E}(p, t)$ 
+- Magnetic dipole field
 
+#### 4 physical laws
+#### Maxwell's equation
+Solving the above 4 equations, We get E and B in sinusoid format 
 
 
 
