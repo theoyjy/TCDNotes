@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "363af28555a61f5b",
+        "id": "e6f3c728f098dcb4",
         "type": "tabs",
         "children": [
           {
-            "id": "3f20099ec93de3e6",
+            "id": "d75b0c065fa7945e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "wk06-Deep Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 413.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -116,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wk06-Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wk06-Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,57 +178,57 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "periodic-para:LifeOS": false
+      "periodic-para:LifeOS Creation": false
     }
   },
-  "active": "3f20099ec93de3e6",
+  "active": "d75b0c065fa7945e",
   "lastOpenFiles": [
+    "Machine Learning/Lectures/week05/kerneltrick2.pdf",
+    "Machine Learning/Lectures/week05/kerneltrick2.pdf.crdownload",
+    "Machine Learning/Lectures/week05",
+    "Machine Learning/Lectures/新建文件夹",
+    "wk06-Deep Learning.md",
+    "CV/wk05-Camera Model and Depth Estimate.md",
+    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
+    "CV/wk04-Feature Detection and Matching.md",
+    "CV/wk03-Image Pyramids & Segmentation.md",
+    "Machine Learning/Lectures/week04/neuralnets.pdf",
+    "Machine Learning/Lectures/week04/predictors.pdf",
+    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
+    "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
+    "Machine Learning/Lectures/week03/crossvalidation(2).pdf",
+    "Machine Learning/Lectures/week03/crossvalidation(2).pdf.crdownload",
+    "CG/wk06-Viewing.md",
+    "CG/Project/Project Proposal and Design Document.md",
+    "CG/Project/Project Proposal and Design Document.pdf",
+    "Resources/Pasted Image 20241014160211_448.jpg",
+    "CG/wk05-geometry.md",
+    "CG/CS7GV6_2425_Viewing.pdf",
+    "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
+    "Resources/Project Proposal and Design Document-20241014220733510.webp",
+    "Resources/Pasted Image 20241014215655_083.jpg",
+    "Excalidraw/Drawing 2024-10-14 21.27.54.excalidraw.md",
+    "CG/Project/Idea.md",
+    "README.md",
+    "Resources/Project Proposal and Design Document-20241014163726873.webp",
+    "Resources/Project Proposal and Design Document-20241014163657812.webp",
+    "Resources/Pasted Image 20241014161202_625.jpg",
+    "Resources/Pasted Image 20241014160241_459.jpg",
+    "Machine Learning/Weekly Assignments/week3/Week 3 Answers.md",
+    "Machine Learning/Weekly Assignments/week2/Answers to Week2 Assignment.md",
     "Resources/wk04-Feature Detection and Matching-20241009094013046.webp",
     "Resources/wk04-Feature Detection and Matching-20241009092541707.webp",
     "Math of Light and Sound/L3-Simulation-Notes.md",
-    "CV/lec/3_CS7GV1-CV Image Pyramids and Segmentation.pdf",
-    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
-    "CV/lec/2_CS7GV1-CV-  Linear Filtering and Edge Detection.pdf",
     "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "Research & Innovation/slides/GSbusiness model canvas-pt2.pdf",
     "Machine Learning/Weekly Assignments/week2/marking/marking2.png",
-    "Machine Learning/Weekly Assignments/week2/marking2.png",
-    "Machine Learning/Weekly Assignments/week2/Pasted image 20241010002939.png",
-    "Machine Learning/Weekly Assignments/week2/marking/Marking Critiria.png",
-    "Machine Learning/Weekly Assignments/week2/marking",
-    "Machine Learning/Weekly Assignments/week2/Untitled",
-    "Machine Learning/Weekly Assignments/week2/Marking Critiria.png",
-    "Machine Learning/Weekly Assignments/week2/Pasted image 20241010002804.png",
-    "Machine Learning/Weekly Assignments/week3/images.7z",
-    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008224707.png",
-    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008224823.png",
-    "Machine Learning/Weekly Assignments/week3/images/Pasted image 20241008225245.png",
-    "Machine Learning/Weekly Assignments/week3/images",
-    "Machine Learning/Weekly Assignments/week3/新建文件夹",
     "Research & Innovation/wk04 Tech Ethics.md",
     "Research & Innovation/Research Library.md",
-    "CV/wk05.md",
-    "CV/wk04-Feature Detection and Matching.md",
-    "CV/lec/5_CS7GV1-CV Camera Models and Depth Estimation.pdf",
     "CV/wk01 - - Unit1Intro.md",
-    "CV/wk03-Image Pyramids & Segmentation.md",
     "Excalidraw/Drawing 2024-09-25 12.12.09.excalidraw.md",
     "Excalidraw/validate access of editing.md",
     "PlotDatapng.md",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers.md",
     "CG/wk03-04 Graphics Programming.md",
-    "CG/wk05-geometry.md",
     "wk05-Geometry.md",
-    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
-    "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
-    "Machine Learning/wk02 - Logistic regression & SVM.md",
-    "Machine Learning/wk01 - Linear Regression.md",
-    "Machine Learning/Weekly Assignments/week2/Answers to Week2 Assignment.md",
-    "Math of Light and Sound/L3-Simulation.md",
-    "Math of Light and Sound/L2-Wave-Equation.md",
-    "Math of Light and Sound/math01.md",
-    "Math of Light and Sound/wk01.md",
-    "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",

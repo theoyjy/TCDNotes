@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0a326ca466a9d1b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e856a8cb59df4dcc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "week3_questions.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

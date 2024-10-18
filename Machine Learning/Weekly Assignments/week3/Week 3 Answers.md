@@ -1,10 +1,17 @@
 # Question i
 ## a
-The plot displays a collection of blue dot markers representing data points. The x-axis corresponds to feature 1, the y-axis to feature 2, and the z-axis to the target values. It is clear that the data points lie on a curved plane by using the interactive plot. So the model should be a non-linear model.
+The plot displays a collection of blue dot markers representing data points. The x-axis corresponds to feature 1, the y-axis to feature 2, and the z-axis to the target values. It is clear that the data points lie on a curved plane by moving around the interactive plot. Which means the model should be a non-linear model.
 ![[Week 3 Answers-20241007223607956.webp|450]]
 <center> Figure 1: Plot 3D data points</center>
+
+<br>
+
 ## b
-With respect to $\alpha = \frac{1}{2C}$, the Lasso regression model is trained using values of C in the range `[1, 10, 100, 1000]`. The coefficients and intercept of the trained model corresponding to each value of C are shown in the table below.
+In Lasso regression, the parameter $\alpha = \frac{1}{2C}$ controls the strength of the regularization applied to the model. Lasso uses `L1` regularization, which not only reduces the magnitude of coefficients but also has the effect of driving some of them to zero, effectively performing feature selection by ignoring less important features.
+
+The Lasso regression model is trained using values of $C$ in the range `[1,10,100,1000]`, where $C$ represents the inverse of regularization strength. A higher $C$ corresponds to less regularization, allowing the model more flexibility to fit the data, potentially leading to larger coefficients. Conversely, smaller $C$ values apply stronger regularization, leading to smaller coefficients and potentially sparser solutions.
+
+The table below shows the coefficients and intercept of the trained model for each value of $C$:
 
 <center> Table 1: Coefficients of Lasso Regression with Different C</center>
 
@@ -14,7 +21,7 @@ With respect to $\alpha = \frac{1}{2C}$, the Lasso regression model is trained u
 | 10   | -0.189 | 0     | 0.815 | -1.401  | 0         | 0       | 0       | 0           | 0           | 0       |
 | 100  | -0.040 | 0     | 0.892 | -1.882  | -0.003    | 0       | 0       | 0           | -0.018      | 0.082   |
 | 1000 | -0.017 | 0.138 | 0.856 | -1.833  | -0.065    | -0.044  | 0       | 0           | -0.092      | 0.154   |
-
+<br>
 
 | $x_1^4$ | $x_1^3 x_2$ | $x_1^2 x_2^2$ | $x_1 x_2^3$ | $x_2^4$ | $x_1^5$ | $x_1^4 x_2$ | $x_1^3 x_2^2$ | $x_1^2 x_2^3$ | $x_1 x_2^4$ | $x_2^5$ |
 | ------- | ----------- | ------------- | ----------- | ------- | ------- | ----------- | ------------- | ------------- | ----------- | ------- |
@@ -44,7 +51,11 @@ $$
 From the feature weights, it can be observed that as $C$ increases, $\alpha$ and bias decrease, resulting in less penalization on misclassified points. Consequently, the feature weights increase as the model focuses on fitting the data points more accurately, leading to a greater number of non-zero weights. This indicates that the model becomes more complex, capturing more details of data, which may increase the risk of overfitting if not managed properly.
 
 ## c
-The figure displays four Lasso prediction plots, each illustrating the scattered original data points and a prediction plane produced by the model for different values of $C$. In the first plot (Lasso $C=1$), the prediction is a flat plane, indicating that the model is underfitting the data. As $C$ increases to 10, the prediction becomes a curved plane that fits the data much more accurately, showing the model's ability to capture the underlying pattern. In the subsequent plots, as $C$ increases further to 100 and 1000, the prediction plane remains similarly curved, with minimal noticeable changes. This suggests that beyond a certain point, increasing $C$ no longer significantly impacts the model's fit, as it has already captured the data's structure effectively.
+The figure displays four Lasso prediction plots, each illustrating the scattered original data points and a prediction plane produced by the model for different values of $C$. The predictions are made on a grid that slightly exceeds the range of the training data, with the grid extending 0.1 beyond each edge of the data range, ensuring a comprehensive visualization of the model's behavior across the input space.
+
+In the first plot (Lasso $C=1$), the prediction is a flat plane, indicating that the model is underfitting the data, likely due to strong regularization. As $C$ increases to 10, the prediction becomes a curved plane that fits the data much more accurately, showing the model's improved ability to capture the underlying pattern. 
+
+In the subsequent plots, as $C$ increases further to 100 and 1000, the prediction plane remains similarly curved with minimal noticeable changes. This suggests that beyond a certain point, increasing $C$ no longer significantly impacts the model's fit, as it has already captured the data's structure effectively.
 
 | ![[Week 3 Answers-20241007223825517.webp]] | ![[Week 3 Answers-20241007223843138.webp]] |
 | ------------------------------------------ | ------------------------------------------ |
@@ -52,12 +63,14 @@ The figure displays four Lasso prediction plots, each illustrating the scattered
 <center> Figure 2: Plots of Lasso Predictions with various C and data points</center>
 
 ## d
-When $C$ is too small, the penalty applied to misclassification is quite large. As a result, the model prioritizes minimizing this penalty rather than fitting the data accurately, leading to underfitting. This is evident in the top-left plot above, where the model produces a flat plane that does not capture the underlying pattern of the data.
+Underfitting occurs when a model is too simple to capture the underlying patterns in the data, leading to poor performance even on the training set. Overfitting happens when a model becomes too complex and fits the training data too closely, capturing noise or irrelevant details, which causes it to perform poorly on unseen data.
 
-Conversely, when $C$ is too large, the penalty becomes minimal, allowing the model to fit the data as closely as possible. This can lead to overfitting, where the model becomes overly complex and fails to generalize to new data. This is illustrated in the bottom-right plot above, where the model fits the data points very precisely but may not perform well on unseen data.
+The penalty weight parameter $C$ in Lasso regression controls the trade-off between underfitting and overfitting by adjusting the regularization strength. When $C$ is small, strong regularization leads to underfitting, as seen in the top-left plot ($C=1$), where the prediction is a flat plane. When $C$ is large, the model closely fits the data, risking overfitting, as shown in the bottom-right plot ($C=1000$). Adjusting $C$ allows balancing between simplicity and model complexity for better generalization.
+
 ## e
+In Ridge regression, $\alpha = \frac{1}{2C}$​ controls the strength of `L2` regularization. Smaller $C$ values apply stronger regularization, shrinking the coefficients toward zero and producing simpler models. Larger $C$ values reduce regularization, allowing the model to fit the data more closely with larger coefficients.
 
-With the respect to $\alpha = \frac {1} {2C}$, the ridge regression model is trained on the values of $C$ in range of `[0.001, 0.01, 1, 10]`. The coefficients and intercept of trained models are presented in the following table.
+The model is trained using $C$ values in the range `[0.001,0.01,1,10]`. Higher $C$ corresponds to less regularization, while lower $C$ leads to stronger regularization. The table below shows the coefficients and intercept for each $C$, illustrating the model’s behavior as $C$ changes.
 
 <center> Table 2: Coefficients of Ridge Regression with Different C</center>
 
@@ -114,28 +127,26 @@ y &= -0.028 +0.126x_1 + 0.762x_2 - 1.743x_1^2 - 0.156x_1 x_2-0.059x_2^2-0.216x_1
 \end{align}
 $$
 
-As $C$ increases, the $\alpha$ and bias decrease, which means less penalization applied on misclassified points. Consequently, the weights of features increases as the model is allowed to focus more on fitting the data precisely. This adjustment enables the model to capture more of the data's underlying patterns, reducing error but potentially increasing the risk of overfitting if $C$ becomes too large.
+From the values of the coefficients and intercepts, we can see that as $C$ increases, $\alpha$ and bias decrease, meaning less penalization is applied to misclassified points. This allows the model to focus more on fitting the data accurately, leading to larger feature weights. While this reduces error by capturing more underlying patterns, it also increases the risk of overfitting if $C$ becomes too large.
 
-
-The plots below display the predictions from the ridge regression model for different values of $C$. The trend observed in these plots is similar to that of the lasso regression plots. As $C$ increases, the predictions made by the models transit from underfitting to overfitting. Initially, with smaller values of $C$, the model produces a flat plane, indicating underfitting. As C$ increases to 1, the model's prediction plane becomes more curved and fits the data points more precisely. The prediction plane barely changes when $C$ reaches to 10 since it already fit data precisely.
+The plots below show Ridge regression predictions for different values of $C$. Similar to the Lasso regression trends, as $C$ increases, the model transitions from underfitting to overfitting. With smaller $C$, the prediction is a flat plane, indicating underfitting. As $C$ increases to 1, the prediction curve fits the data more closely. By $C=10$, the prediction plane stabilizes, as the model has already closely fit the data.
 
 | ![[Week 3 Answers-20241007224136388.webp]] | ![[Week 3 Answers-20241007224153790.webp]] |
 | ------------------------------------------ | ------------------------------------------ |
 | ![[Week 3 Answers-20241007224241541.webp]] | ![[Week 3 Answers-20241007224255321.webp]] |
 <center> Figure 3: Plots of Ridge Predictions with various C and data points</center>
 
-
-
+---
 # Question ii
 
 ## a
-Initially, $C$ values `[0.1, 1, 10, 100]` are tested shown in the top-left figure from Figure 4. The difference between $C = 0.1$ and $C=1$ is negligible, and the mean squared error barely changes beyond $C=10$. Therefore, $C=0.1$ is removed and the upper limit is adjusted to $C=50$.
+Initially, $C$ values `[0.1,1,10,100]` were tested (see top-left plot in Figure 4). The difference in mean squared error (MSE) between $C=0.1$ and $C=1$ was negligible, and MSE barely changed beyond $C=10$. Therefore, $C=0.1$ was removed, and the upper limit adjusted to $C=50$.
 
-Then, the range is updated to `[1, 5, 10, 20, 50]` in the top-right plot from Figure 4. Since the mean squared error remains stable beyond $C=20$, the upper limit is reduced to $C=20$ to allow a closer examination of $C$ between 1 and 20.
+Next, the range was updated to `[1,5,10,20,50]` (top-right plot). Since MSE remained stable beyond $C=20$, the upper limit was reduced to $C=20$ for a closer look at values between 1 and 20.
 
-From the last plot, the refined range `[1, 5, 7.5, 10, 20]` is used. It can be observed that the mean squared error stabilizes after $C=7.5$, suggesting that further increases in $C$ beyond this value yield minimal changes in performance.
+Finally, the refined range `[1,5,7.5,10,20]` was used (last plot). The MSE stabilized after $C=7.5$, indicating minimal performance gains from increasing $C$ further.
 
-These adjustments effectively demonstrate how varying $C$ influences model performance and identify the optimal range where increasing $C$ no longer impacts the MSE significantly.
+These adjustments helped to narrow down the optimal $C$ range, where MSE remains stable and increasing $C$ provides no significant benefit.
 
 | ![[Pasted image 20241008224307.png]] | ![[Pasted image 20241008224707.png]] |
 | ------------------------------------ | ------------------------------------ |
@@ -143,14 +154,14 @@ These adjustments effectively demonstrate how varying $C$ influences model perfo
 <center> Figure 4: Plots of Lasso Predictions Errorbar</center>
 
 ## b
-Based on the cross-validation data in (a), a value of $C = 7.5$ is recommended, as the mean squared error does not significantly decrease beyond this point. Choosing a higher value of $C$ increases the risk of overfitting, as the model may become too complex and fail to generalize well to new data. Therefore, $C = 7.5$ provides a good balance between model accuracy and generalization.
+Based on the cross-validation data, I recommend using $C=7.5$. The mean squared error stabilizes beyond this value, indicating that further increases in $C$ do not significantly improve the model's performance. Choosing a higher $C$ risks overfitting, as the model could become too complex and less generalizable to new data. Therefore, $C=7.5$ strikes a good balance between accuracy and generalization.
 
 ## c
 Initially, $C$ values `[0.1, 1, 10, 100]` are tested shown in the top-left figure from Figure 5. The mean squared error barely changes beyond $C=10$. Therefore the upper limit is shrunk to $C=10$ and explore more value between 0.1 and 1.
 
-Then, the range is updated to `[0.1, 0.5, 1, 10]` in the top-right plot from Figure 5. Since the mean squared error remains stable beyond $C=1$, the upper limit is reduced to $C=1$.
+Next, the range is updated to `[0.1, 0.5, 1, 10]` in the top-right plot from Figure 5. Since the mean squared error remains stable beyond $C=1$, the upper limit is reduced to $C=1$.
 
-Finally, the last plot has the refined range `[1, 5, 7.5, 10, 20]`. It can be observed that the mean squared error stabilizes after $C=0.5$, suggesting that further increases in $C$ beyond this value yield minimal changes in performance.
+Finally, the last plot has the refined range `[1, 5, 7.5, 10, 20]`. It can be observed that the mean squared error stabilizes after $C=0.5$ , suggesting that further increases in $C$ beyond this value yield minimal changes in performance.
 
 As a result, $C = 0.5$ is recommended as it effectively balances fitting the training data without a high risk of overfitting. This value provides a stable and efficient model performance while maintaining generalization capabilities.
 

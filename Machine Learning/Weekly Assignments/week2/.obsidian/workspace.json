@@ -6,6 +6,7 @@
       {
         "id": "cdb3da710052fc35",
         "type": "tabs",
+        "dimension": 39.14956011730205,
         "children": [
           {
             "id": "fba561ee4301579e",
@@ -24,11 +25,12 @@
       {
         "id": "2ef8e2ffb0d772a2",
         "type": "split",
+        "dimension": 60.85043988269795,
         "children": [
           {
             "id": "90a61868addace22",
             "type": "tabs",
-            "dimension": 69.2156862745098,
+            "dimension": 45.490196078431374,
             "children": [
               {
                 "id": "fc0e6a2ce82a2803",
@@ -45,7 +47,7 @@
           {
             "id": "0e5ab7c389c6fefc",
             "type": "tabs",
-            "dimension": 30.784313725490197,
+            "dimension": 54.509803921568626,
             "children": [
               {
                 "id": "73f5f275ab4a8c75",
@@ -126,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answers to Week2 Assignment.md",
+                "file": "week2_questions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Answers to Week2 Assignment.md",
+                "file": "week2_questions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Answers to Week2 Assignment.md"
+                "file": "week2_questions.pdf"
               }
             }
           }
@@ -187,13 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fba561ee4301579e",
+  "active": "73f5f275ab4a8c75",
   "lastOpenFiles": [
+    "Answers to Week2 Assignment.md",
     "Answers to Week2 Assignment.pdf",
     "week2_questions.pdf",
     "marking/Marking Critiria.png",
     "marking/marking2.png",
-    "Answers to Week2 Assignment.md",
     "marking"
   ]
 }
