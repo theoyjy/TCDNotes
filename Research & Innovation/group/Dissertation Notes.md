@@ -145,32 +145,6 @@ annotation-target: TCD-SCSS-DISSERTATION-2022-023.pdf
 ^c7vjdoly5dw
 
 
->%%
->```annotation-json
->{"created":"2024-10-02T22:18:03.807Z","text":"two mechanism involved in a auto turning pages system","updated":"2024-10-02T22:18:03.807Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":6386,"end":6478},{"type":"TextQuoteSelector","exact":"mechanism for displaying new music on-screen as wellas the system to trigger such page turns","prefix":"-turning interface; both in the ","suffix":". Gaze detection was chosen as t"}]}]}
->```
->%%
->*%%PREFIX%%-turning interface; both in the%%HIGHLIGHT%% ==mechanism for displaying new music on-screen as wellas the system to trigger such page turns== %%POSTFIX%%. Gaze detection was chosen as t*
->%%LINK%%[[#^bzwap29q3d8|show annotation]]
->%%COMMENT%%
->two mechanism involved in a auto turning pages system
->%%TAGS%%
->
-^bzwap29q3d8
-
-
->%%
->```annotation-json
->{"created":"2024-10-02T22:37:29.269Z","text":"The journal uses a high-end research-grade device(SMI RED500 eye-gaze tracker) to evaluate the Kalman filter model with real eye-gaze data, rather than a widely accessible commercial product for general consumer use","updated":"2024-10-02T22:37:29.269Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":6702,"end":6949},{"type":"TextQuoteSelector","exact":"Although there has already been research focused on using gaze detection toturn the pages of sheet music (Tabone et al., 2020), the use of gaze detection performedwith commercial hardware in a general setting has not been studied for this use case","prefix":" page-turning from themusician. ","suffix":". Assuch, this dissertation aims"}]}]}
->```
->%%
->*%%PREFIX%%page-turning from themusician.%%HIGHLIGHT%% ==Although there has already been research focused on using gaze detection toturn the pages of sheet music (Tabone et al., 2020), the use of gaze detection performedwith commercial hardware in a general setting has not been studied for this use case== %%POSTFIX%%. Assuch, this dissertation aims*
->%%LINK%%[[#^s1xf37263zf|show annotation]]
->%%COMMENT%%
->The journal uses a high-end research-grade device(SMI RED500 eye-gaze tracker) to evaluate the Kalman filter model with real eye-gaze data, rather than a widely accessible commercial product for general consumer use
->%%TAGS%%
->
-^s1xf37263zf
 
 
 >%%
@@ -496,29 +470,16 @@ annotation-target: TCD-SCSS-DISSERTATION-2022-023.pdf
 ^votiv2fem7n
 
 
->%%
->```annotation-json
->{"created":"2024-10-03T12:55:37.895Z","updated":"2024-10-03T12:55:37.895Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":19322,"end":19482},{"type":"TextQuoteSelector","exact":"The calibration process allows for gaze estimations to be comparedwith known ground truth values, since the locations of the calibration dots arepre-determined.","prefix":"n allows forseveral advantages. ","suffix":" With the assumption that the us"}]}]}
->```
->%%
->*%%PREFIX%%n allows forseveral advantages.%%HIGHLIGHT%% ==The calibration process allows for gaze estimations to be comparedwith known ground truth values, since the locations of the calibration dots arepre-determined.== %%POSTFIX%%With the assumption that the us*
->%%LINK%%[[#^gwkl0wn2zmj|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^gwkl0wn2zmj
-
 
 >%%
 >```annotation-json
->{"created":"2024-10-03T12:59:28.342Z","updated":"2024-10-03T12:59:28.342Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":19633,"end":19674},{"type":"TextQuoteSelector","exact":"metrics are calculated on the performance","prefix":"ared to the actual locations and","suffix":" of the gaze detection system. C"}]}]}
+>{"text":"no limitation and other methods considered","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":19633,"end":19674},{"type":"TextQuoteSelector","exact":"metrics are calculated on the performance","prefix":"ared to the actual locations and","suffix":"of the gaze detection system. C"}]}],"created":"2024-10-03T12:59:28.342Z","updated":"2024-10-03T12:59:28.342Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}
 >```
 >%%
 >*%%PREFIX%%ared to the actual locations and%%HIGHLIGHT%% ==metrics are calculated on the performance== %%POSTFIX%%of the gaze detection system. C*
 >%%LINK%%[[#^jtrsk2ser1k|show annotation]]
 >%%COMMENT%%
->
+>no limitation and other methods considered
 >%%TAGS%%
 >
 ^jtrsk2ser1k
@@ -538,46 +499,7 @@ annotation-target: TCD-SCSS-DISSERTATION-2022-023.pdf
 ^3gf7981fn9b
 
 
->%%
->```annotation-json
->{"created":"2024-10-03T13:04:08.800Z","updated":"2024-10-03T13:04:08.800Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":20705,"end":20796},{"type":"TextQuoteSelector","exact":"SeeSooperates directly on a camera feed, whereas iTracker has specific inputs which must be","prefix":"redictions (Visual Camp, 2021). ","suffix":"12prepared before any gaze predi"}]}]}
->```
->%%
->*%%PREFIX%%redictions (Visual Camp, 2021).%%HIGHLIGHT%% ==SeeSooperates directly on a camera feed, whereas iTracker has specific inputs which must be== %%POSTFIX%%12prepared before any gaze predi*
->%%LINK%%[[#^3z0b36b02t7|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^3z0b36b02t7
 
-
->%%
->```annotation-json
->{"created":"2024-10-03T13:04:16.416Z","updated":"2024-10-03T13:04:16.416Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":20798,"end":20849},{"type":"TextQuoteSelector","exact":"prepared before any gaze predictions are performed.","prefix":" specific inputs which must be12","suffix":" To transform the front-facing c"}]}]}
->```
->%%
->*%%PREFIX%%specific inputs which must be12%%HIGHLIGHT%% ==prepared before any gaze predictions are performed.== %%POSTFIX%%To transform the front-facing c*
->%%LINK%%[[#^k6b0rhckjth|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^k6b0rhckjth
-
-
->%%
->```annotation-json
->{"created":"2024-10-03T13:04:38.225Z","updated":"2024-10-03T13:04:38.225Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":20918,"end":20978},{"type":"TextQuoteSelector","exact":"iTracker, a face and eye segmentation module wasimplemented.","prefix":"frames into suitable inputs for ","suffix":" Although the SeeSo SDK provides"}]}]}
->```
->%%
->*%%PREFIX%%frames into suitable inputs for%%HIGHLIGHT%% ==iTracker, a face and eye segmentation module wasimplemented.== %%POSTFIX%%Although the SeeSo SDK provides*
->%%LINK%%[[#^t9t71dcqr48|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^t9t71dcqr48
 
 
 >%%
@@ -1199,3 +1121,327 @@ annotation-target: TCD-SCSS-DISSERTATION-2022-023.pdf
 >%%TAGS%%
 >
 ^wtpb3rk9jk
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T21:13:58.909Z","updated":"2024-10-27T21:13:58.909Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":4433,"end":4547},{"type":"TextQuoteSelector","exact":"however this is not a popular designdecision as the reduced size of the music can render it more difficult to read","prefix":"ashion to physical sheet music, ","suffix":". Anotherpossibility is displayi"}]}]}
+>```
+>%%
+>*%%PREFIX%%ashion to physical sheet music,%%HIGHLIGHT%% ==however this is not a popular designdecision as the reduced size of the music can render it more difficult to read== %%POSTFIX%%. Anotherpossibility is displayi*
+>%%LINK%%[[#^f2d9k0xq3uj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^f2d9k0xq3uj
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T21:17:16.493Z","updated":"2024-10-27T21:17:16.493Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":8491,"end":8565},{"type":"TextQuoteSelector","exact":"Page-turning devices fall into one of two categories; mechanical or digita","prefix":"age-turning solutions background","suffix":"l.Mechanical page turners operat"}]}]}
+>```
+>%%
+>*%%PREFIX%%age-turning solutions background%%HIGHLIGHT%% ==Page-turning devices fall into one of two categories; mechanical or digita== %%POSTFIX%%l.Mechanical page turners operat*
+>%%LINK%%[[#^b72937kk4kj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^b72937kk4kj
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T21:17:24.766Z","updated":"2024-10-27T21:17:24.766Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":8688,"end":8721},{"type":"TextQuoteSelector","exact":"many possibilities for triggering","prefix":"ing to the next page. There are ","suffix":" mechanical pageturners in a han"}]}]}
+>```
+>%%
+>*%%PREFIX%%ing to the next page. There are%%HIGHLIGHT%% ==many possibilities for triggering== %%POSTFIX%%mechanical pageturners in a han*
+>%%LINK%%[[#^w4trx0p47xm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^w4trx0p47xm
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T22:00:17.075Z","updated":"2024-10-27T22:00:17.075Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":9130,"end":9234},{"type":"TextQuoteSelector","exact":"Having a front-facing camera and significantprocessing power allows for additional page-turning triggers","prefix":"p, 2018) (Williams-King, 2019). ","suffix":" such as audio-based triggers,fa"}]}]}
+>```
+>%%
+>*%%PREFIX%%p, 2018) (Williams-King, 2019).%%HIGHLIGHT%% ==Having a front-facing camera and significantprocessing power allows for additional page-turning triggers== %%POSTFIX%%such as audio-based triggers,fa*
+>%%LINK%%[[#^qmvz92cs9fh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^qmvz92cs9fh
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T22:01:25.997Z","updated":"2024-10-27T22:01:25.997Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":8773,"end":8847},{"type":"TextQuoteSelector","exact":"as foot/hand pedals, voice-activated systems andbreath-controlled switches","prefix":"ers in a hands-free manner such ","suffix":" (Wolberg & Schipper, 2012). The"}]}]}
+>```
+>%%
+>*%%PREFIX%%ers in a hands-free manner such%%HIGHLIGHT%% ==as foot/hand pedals, voice-activated systems andbreath-controlled switches== %%POSTFIX%%(Wolberg & Schipper, 2012). The*
+>%%LINK%%[[#^l98tqpsny2j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^l98tqpsny2j
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T22:02:51.450Z","updated":"2024-10-27T22:02:51.450Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":8921,"end":9089},{"type":"TextQuoteSelector","exact":"digitised sheet music typically displayed using a tablet device. These digitalpage turners can also be triggered by various external pedals, and voice activation system","prefix":"egory of page turnersoperate on ","suffix":"s(PageFlip, 2018) (Williams-King"}]}]}
+>```
+>%%
+>*%%PREFIX%%egory of page turnersoperate on%%HIGHLIGHT%% ==digitised sheet music typically displayed using a tablet device. These digitalpage turners can also be triggered by various external pedals, and voice activation system== %%POSTFIX%%s(PageFlip, 2018) (Williams-King*
+>%%LINK%%[[#^hoqhlpq77nd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hoqhlpq77nd
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T22:07:52.096Z","updated":"2024-10-27T22:07:52.096Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":10651,"end":10700},{"type":"TextQuoteSelector","exact":"demonstrating that highly accurate gaze detection","prefix":"ssful page turns6were recorded, ","suffix":" in combination with amodified s"}]}]}
+>```
+>%%
+>*%%PREFIX%%ssful page turns6were recorded,%%HIGHLIGHT%% ==demonstrating that highly accurate gaze detection== %%POSTFIX%%in combination with amodified s*
+>%%LINK%%[[#^ne531i177v|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ne531i177v
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T22:15:41.735Z","updated":"2024-10-27T22:15:41.735Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":6722,"end":6742},{"type":"TextQuoteSelector","exact":"lready been research","prefix":"hemusician. Although there has a","suffix":" focused on using gaze detection"}]}]}
+>```
+>%%
+>*%%PREFIX%%hemusician. Although there has a%%HIGHLIGHT%% ==lready been research== %%POSTFIX%%focused on using gaze detection*
+>%%LINK%%[[#^kvh8g6pxlh9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kvh8g6pxlh9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-27T22:15:50.869Z","updated":"2024-10-27T22:15:50.869Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":6870,"end":6889},{"type":"TextQuoteSelector","exact":"commercial hardware","prefix":"of gaze detection performedwith ","suffix":" in a general setting has not be"}]}]}
+>```
+>%%
+>*%%PREFIX%%of gaze detection performedwith%%HIGHLIGHT%% ==commercial hardware== %%POSTFIX%%in a general setting has not be*
+>%%LINK%%[[#^wospy0vwm4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wospy0vwm4
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T00:24:17.208Z","updated":"2024-10-28T00:24:17.208Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":11547,"end":11726},{"type":"TextQuoteSelector","exact":"This is a highly intrusivetechnique and as such is not suited for commercialisation, although one advantage is thatthis technique doesnʼt require a clear view of the subjectʼs eye","prefix":"field of the eye as it rotates. ","suffix":".Figure 2.1: Top Le\u0000: Infrared-b"}]}]}
+>```
+>%%
+>*%%PREFIX%%field of the eye as it rotates.%%HIGHLIGHT%% ==This is a highly intrusivetechnique and as such is not suited for commercialisation, although one advantage is thatthis technique doesnʼt require a clear view of the subjectʼs eye== %%POSTFIX%%.Figure 2.1: Top Le : Infrared-b*
+>%%LINK%%[[#^ru1t9qumfqs|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ru1t9qumfqs
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T01:17:49.691Z","text":"Just reasons of suitable for this dissertation, No discussion about its limitations","updated":"2024-10-28T01:17:49.691Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":17583,"end":17622},{"type":"TextQuoteSelector","exact":"for the iOS platform. One of the reason","prefix":" was decided to develop EyeGaze ","suffix":"s for thisdecision is the previo"}]}]}
+>```
+>%%
+>*%%PREFIX%%was decided to develop EyeGaze%%HIGHLIGHT%% ==for the iOS platform. One of the reason== %%POSTFIX%%s for thisdecision is the previo*
+>%%LINK%%[[#^q2hodz9d3k|show annotation]]
+>%%COMMENT%%
+>Just reasons of suitable for this dissertation, No discussion about its limitations
+>%%TAGS%%
+>
+^q2hodz9d3k
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T01:18:47.857Z","updated":"2024-10-28T01:18:47.857Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":17697,"end":17715},{"type":"TextQuoteSelector","exact":" simplify the task","prefix":"ned Vision framework which would","suffix":" ofperforming gaze detection in "}]}]}
+>```
+>%%
+>*%%PREFIX%%ned Vision framework which would%%HIGHLIGHT%% ==simplify the task== %%POSTFIX%%ofperforming gaze detection in*
+>%%LINK%%[[#^4i8fz3r3e2l|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^4i8fz3r3e2l
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T01:19:19.523Z","updated":"2024-10-28T01:19:19.523Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":18006,"end":18260},{"type":"TextQuoteSelector","exact":"Although the MusicXML format provides more scope for incorporatingaudio as an input for understanding a userʼs place in the music, this was not the focus ofthis paper. Additionally it was considered that sheet music is more commonly stored in aPDF format","prefix":"pp only PDFfiles are supported. ","suffix":", and as such PDF files are disp"}]}]}
+>```
+>%%
+>*%%PREFIX%%pp only PDFfiles are supported.%%HIGHLIGHT%% ==Although the MusicXML format provides more scope for incorporatingaudio as an input for understanding a userʼs place in the music, this was not the focus ofthis paper. Additionally it was considered that sheet music is more commonly stored in aPDF format== %%POSTFIX%%, and as such PDF files are disp*
+>%%LINK%%[[#^kp4mto2hkq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kp4mto2hkq
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T01:20:55.526Z","updated":"2024-10-28T01:20:55.526Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":18602,"end":18701},{"type":"TextQuoteSelector","exact":" two separate systems wouldbe incorporated into the app, with the user having the ability to switch","prefix":"e between gaze detection systems","suffix":" between the twosystems. The use"}]}]}
+>```
+>%%
+>*%%PREFIX%%e between gaze detection systems%%HIGHLIGHT%% ==two separate systems wouldbe incorporated into the app, with the user having the ability to switch== %%POSTFIX%%between the twosystems. The use*
+>%%LINK%%[[#^nzd00pbhlz|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nzd00pbhlz
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T01:25:49.946Z","text":"Only talks about the implementation differences, no comparation","updated":"2024-10-28T01:25:49.946Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":20705,"end":20796},{"type":"TextQuoteSelector","exact":"SeeSooperates directly on a camera feed, whereas iTracker has specific inputs which must be","prefix":"redictions (Visual Camp, 2021). ","suffix":"12prepared before any gaze predi"}]}]}
+>```
+>%%
+>*%%PREFIX%%redictions (Visual Camp, 2021).%%HIGHLIGHT%% ==SeeSooperates directly on a camera feed, whereas iTracker has specific inputs which must be== %%POSTFIX%%12prepared before any gaze predi*
+>%%LINK%%[[#^cyiui8zjwpe|show annotation]]
+>%%COMMENT%%
+>Only talks about the implementation differences, no comparation
+>%%TAGS%%
+>
+^cyiui8zjwpe
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T02:41:13.332Z","updated":"2024-10-28T02:41:13.332Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":56235,"end":56390},{"type":"TextQuoteSelector","exact":" if no face is detected when a user is using thescrolling system then the scrolling continues at the same rate it was scrolling when a face was lastdetecte","prefix":"ation of the EyeGaze application","suffix":"d. This implementation decision "}]}]}
+>```
+>%%
+>*%%PREFIX%%ation of the EyeGaze application%%HIGHLIGHT%% ==if no face is detected when a user is using thescrolling system then the scrolling continues at the same rate it was scrolling when a face was lastdetecte== %%POSTFIX%%d. This implementation decision*
+>%%LINK%%[[#^t133ivir9ni|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^t133ivir9ni
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T02:41:43.066Z","updated":"2024-10-28T02:41:43.066Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":56621,"end":56862},{"type":"TextQuoteSelector","exact":"The other possibility however is that theuser has finished playing the piece and in this case the scrolling should stop. Using audio levels asan extra input to the page-turning system would allow situations like this to be handled correctly.","prefix":"he piece is still being played. ","suffix":"Another interesting problem that"}]}]}
+>```
+>%%
+>*%%PREFIX%%he piece is still being played.%%HIGHLIGHT%% ==The other possibility however is that theuser has finished playing the piece and in this case the scrolling should stop. Using audio levels asan extra input to the page-turning system would allow situations like this to be handled correctly.== %%POSTFIX%%Another interesting problem that*
+>%%LINK%%[[#^jdgngpxb4le|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jdgngpxb4le
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-28T02:42:06.476Z","updated":"2024-10-28T02:42:06.476Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":57191,"end":57211},{"type":"TextQuoteSelector","exact":"backwards page turns","prefix":"d, or it could require multiple ","suffix":". A similar situation could occu"}]}]}
+>```
+>%%
+>*%%PREFIX%%d, or it could require multiple%%HIGHLIGHT%% ==backwards page turns== %%POSTFIX%%. A similar situation could occu*
+>%%LINK%%[[#^zdmfu6mzacn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^zdmfu6mzacn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-29T22:49:14.158Z","updated":"2024-10-29T22:49:14.158Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":4672,"end":4852},{"type":"TextQuoteSelector","exact":"The increasing computational power of tablets, as well as thepopularity of built-in microphones and front-facing cameras allows for the reconsiderationof how to handle page turns. ","prefix":"eatingtwice as many page turns. ","suffix":"Animations can be used to imitat"}]}]}
+>```
+>%%
+>*%%PREFIX%%eatingtwice as many page turns.%%HIGHLIGHT%% ==The increasing computational power of tablets, as well as thepopularity of built-in microphones and front-facing cameras allows for the reconsiderationof how to handle page turns.== %%POSTFIX%%Animations can be used to imitat*
+>%%LINK%%[[#^vxcxpjofr5n|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^vxcxpjofr5n
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-29T23:00:17.217Z","text":"The reason of choosing gaze detection is given but it's not critical, to achieve the goal here mentioned, there could be other ways","updated":"2024-10-29T23:00:17.217Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":6480,"end":6701},{"type":"TextQuoteSelector","exact":"Gaze detection was chosen as the system totrigger page turns because understanding where a user is looking on-screen allows for apassive interface to be designed, removing the distraction of page-turning from themusician.","prefix":"tem to trigger such page turns. ","suffix":" Although there has already been"}]}]}
+>```
+>%%
+>*%%PREFIX%%tem to trigger such page turns.%%HIGHLIGHT%% ==Gaze detection was chosen as the system totrigger page turns because understanding where a user is looking on-screen allows for apassive interface to be designed, removing the distraction of page-turning from themusician.== %%POSTFIX%%Although there has already been*
+>%%LINK%%[[#^7stnhlir41x|show annotation]]
+>%%COMMENT%%
+>The reason of choosing gaze detection is given but it's not critical, to achieve the goal here mentioned, there could be other ways
+>%%TAGS%%
+>
+^7stnhlir41x
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-30T00:29:13.551Z","updated":"2024-10-30T00:29:13.551Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":12132,"end":12194},{"type":"TextQuoteSelector","exact":"The most intrusive of these techniquesis head-mounted tracking","prefix":"s eyes (Da Silva et al., 2007). ","suffix":". Head-mounted techniques involv"}]}]}
+>```
+>%%
+>*%%PREFIX%%s eyes (Da Silva et al., 2007).%%HIGHLIGHT%% ==The most intrusive of these techniquesis head-mounted tracking== %%POSTFIX%%. Head-mounted techniques involv*
+>%%LINK%%[[#^6krwzwe9x04|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6krwzwe9x04
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-30T01:05:26.513Z","updated":"2024-10-30T01:05:26.513Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":34660,"end":34749},{"type":"TextQuoteSelector","exact":" testedin a variety of situations with different subjects and varying lighting conditions","prefix":"the application would need to be","suffix":". Thisnecessitated a user study,"}]}]}
+>```
+>%%
+>*%%PREFIX%%the application would need to be%%HIGHLIGHT%% ==testedin a variety of situations with different subjects and varying lighting conditions== %%POSTFIX%%. Thisnecessitated a user study,*
+>%%LINK%%[[#^fptkkibz2b9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^fptkkibz2b9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-30T01:29:03.831Z","updated":"2024-10-30T01:29:03.831Z","document":{"title":"Dissertation","link":[{"href":"urn:x-pdf:cd4b85925a25cef96a53b538f0b9a013"},{"href":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf"}],"documentFingerprint":"cd4b85925a25cef96a53b538f0b9a013"},"uri":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","target":[{"source":"vault:/Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf","selector":[{"type":"TextPositionSelector","start":35978,"end":36249},{"type":"TextQuoteSelector","exact":"There were a variety of factors identified which could potentially affect the accuracy of thegaze detection systems, such as glasses or long hair partially occluding subjectsʼ faces,varying lighting conditions and varying relative positioning of the subject and the iPad.","prefix":"tion of each subjectʼs choosing.","suffix":"The only restriction placed on s"}]}]}
+>```
+>%%
+>*%%PREFIX%%tion of each subjectʼs choosing.%%HIGHLIGHT%% ==There were a variety of factors identified which could potentially affect the accuracy of thegaze detection systems, such as glasses or long hair partially occluding subjectsʼ faces,varying lighting conditions and varying relative positioning of the subject and the iPad.== %%POSTFIX%%The only restriction placed on s*
+>%%LINK%%[[#^kc5s6m5byu|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^kc5s6m5byu

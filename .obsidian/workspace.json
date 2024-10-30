@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d1f5dab9e88630",
+        "id": "c3e4be8665b1a2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "c2150c2117addf23",
+            "id": "83efa2650bb5f8e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Math of Light and Sound/L4-Light&Sound.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Research & Innovation/group/Dissertation Notes.md"
               },
               "icon": "lucide-file",
-              "title": "L4-Light&Sound"
+              "title": "Dissertation Notes"
             }
           }
         ]
@@ -73,22 +70,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "164fd35cf7fd4048",
-            "type": "leaf",
-            "state": {
-              "type": "periodic-para",
-              "state": {},
-              "icon": "zap",
-              "title": "LifeOS"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
+    "width": 317.5,
     "collapsed": true
   },
   "right": {
@@ -178,13 +165,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "c304ed9f8de202b7",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
+    "width": 738.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,61 +193,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "periodic-para:LifeOS Creation": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2150c2117addf23",
+  "active": "83efa2650bb5f8e5",
   "lastOpenFiles": [
+    "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
+    "Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf",
+    "Machine Learning/wk08-Conv_2.md",
+    "CG/CS7GV6_2425_Hierarchical_edited_2.pdf",
+    "CG/CS7GV6_2425_Hierarchical_edited_2.pdf.crdownload",
+    "Machine Learning/wk08-Convolution_1.md",
+    "wk08-Conv_2.md",
+    "Machine Learning/Lectures/week08/convnets2(1).pdf",
+    "Machine Learning/Lectures/week08/convnets2(1).pdf.crdownload",
+    "Due.md",
+    "!Assignments.md",
+    "README.md",
+    "Machine Learning/Lectures/week8a_part2_introduction.pdf",
+    "Machine Learning/wk06-Deep Learning.md",
+    "Machine Learning/Lectures/week8a_part2_introduction.pdf.crdownload",
+    "Machine Learning/Lectures/week08/week8a_convnets1.pdf",
+    "Machine Learning/Lectures/week08/week8a_convnets1.pdf.crdownload",
+    "Machine Learning/Lectures/week08",
+    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
+    "CG/wk06-Viewing.md",
+    "CG/wk07-Animation.md",
+    "Resources/L4-Light&Sound-20241018132854727.webp",
+    "Math of Light and Sound/L3-Simulation-Notes.md",
     "Math of Light and Sound/math01.md",
-    "Math of Light and Sound/Assignment1/code.py",
-    "Math of Light and Sound/wk01.md",
+    "Math of Light and Sound/Code/wavesimulation/README.md",
     "Math of Light and Sound/L2-Wave-Equation.md",
+    "Math of Light and Sound/L3-Simulation.md",
     "Math of Light and Sound/L4-Light&Sound.md",
-    "L4-Light&Sound-20241018135155221.webp",
-    "L4-Light&Sound-20241018134118797.webp",
-    "L4-Light&Sound-20241018132854727.webp",
-    "L4-Light&Sound-20241018133627849.webp",
+    "CG/wk05-geometry.md",
+    "Math of Light and Sound/wk01.md",
+    "Research & Innovation/group/Dissertation Notes.md",
+    "Research & Innovation/wk02 Dissertation Critique & Business Modeling and Customer Discovery.md",
+    "Research & Innovation/wk03.md",
+    "Resources/L4-Light&Sound-20241018135155221.webp",
+    "Resources/L4-Light&Sound-20241018134118797.webp",
+    "Resources/L4-Light&Sound-20241018133627849.webp",
     "L4-Light&Sound-20241018133131702.webp",
     "L4-Light&Sound-20241018133106067.webp",
     "L4-Light&Sound-20241018132633650.webp",
     "Math of Light and Sound/L4-Light and Sound.md",
-    "Math of Light and Sound/L3-Simulation-Notes.md",
-    "wk06-Deep Learning.md",
-    "Machine Learning/Lectures/week05/kerneltrick2.pdf",
-    "Machine Learning/Lectures/week05/kerneltrick2.pdf.crdownload",
-    "Machine Learning/Lectures/week05",
-    "Machine Learning/Lectures/新建文件夹",
     "CV/wk05-Camera Model and Depth Estimate.md",
-    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
     "CV/wk04-Feature Detection and Matching.md",
     "CV/wk03-Image Pyramids & Segmentation.md",
-    "Machine Learning/Lectures/week04/neuralnets.pdf",
-    "Machine Learning/Lectures/week04/predictors.pdf",
-    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
-    "Machine Learning/wk03 - Model Selection & Performance Evaluation.md",
-    "Machine Learning/Lectures/week03/crossvalidation(2).pdf",
-    "Machine Learning/Lectures/week03/crossvalidation(2).pdf.crdownload",
-    "CG/wk06-Viewing.md",
-    "CG/Project/Project Proposal and Design Document.md",
     "Resources/Pasted Image 20241014160211_448.jpg",
-    "CG/wk05-geometry.md",
-    "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
     "Resources/Project Proposal and Design Document-20241014220733510.webp",
     "Resources/Pasted Image 20241014215655_083.jpg",
-    "Excalidraw/Drawing 2024-10-14 21.27.54.excalidraw.md",
-    "CG/Project/Idea.md",
-    "README.md",
-    "Machine Learning/Weekly Assignments/week3/Week 3 Answers.md",
-    "Machine Learning/Weekly Assignments/week2/Answers to Week2 Assignment.md",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "Research & Innovation/wk04 Tech Ethics.md",
-    "Research & Innovation/Research Library.md",
-    "CV/wk01 - - Unit1Intro.md",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
