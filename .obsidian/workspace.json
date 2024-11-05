@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ad828074a583ea9b",
+        "id": "5f15349fe1d8a41d",
         "type": "tabs",
         "children": [
           {
-            "id": "79f6e319d08ead5c",
+            "id": "b565c7fd8e7fa5f1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Math of Light and Sound/L5-Phasors.md"
+                "file": "Excalidraw/Drawing 2024-11-05 17.41.23.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "L5-Phasors"
-            }
-          },
-          {
-            "id": "96d0a51c5bcb2558",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Machine Learning/wk09-Conv.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "wk09-Conv"
+              "title": "Drawing 2024-11-05 17.41.23.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -211,9 +199,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d478af17e7aea3ca",
+  "active": "b565c7fd8e7fa5f1",
   "lastOpenFiles": [
-    "Machine Learning/wk08_conv2.md",
+    "Excalidraw/Drawing 2024-11-05 17.41.23.excalidraw.md",
+    "Machine Learning/wk09_conv2_application.md",
+    "Excalidraw/Drawing 2024-11-05 17.21.58.excalidraw.md",
+    "Machine Learning/Lectures/text/textfeatures2.pdf",
+    "Machine Learning/Lectures/text/textfeatures2.pdf.crdownload",
+    "Machine Learning/Lectures/text",
+    "Machine Learning/Lectures/新建文件夹",
+    "Machine Learning/Lectures/week09/convnets4.pdf",
+    "Machine Learning/Lectures/week09/convnets4.pdf.crdownload",
+    "Machine Learning/wk08-Conv.md",
+    "CG/wk08-Lighting.md",
+    "CG/CS7GV6_GeometricTransformations.pdf",
     "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
     "Excalidraw/Drawing 2024-10-30 23.14.07.excalidraw.md",
     "Excalidraw/validate access of editing.md",
@@ -223,19 +222,11 @@
     "Math of Light and Sound/L5-Phasors.md",
     "Math of Light and Sound/Exam Info.md",
     "Math of Light and Sound/lec/CS7GV2-L5-Phasors.pdf",
-    "Machine Learning/wk09-Conv.md",
     "Machine Learning/Lectures/week09/convnets3.pdf",
     "Machine Learning/Lectures/week09/convnets3.pdf.crdownload",
-    "Machine Learning/Lectures/week09",
-    "Machine Learning/Lectures/新建文件夹",
     "Research & Innovation/group/Dissertation Notes.md",
     "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
-    "Research & Innovation/group/TCD-SCSS-DISSERTATION-2022-023.pdf",
-    "CG/CS7GV6_2425_Hierarchical_edited_2.pdf",
-    "CG/CS7GV6_2425_Hierarchical_edited_2.pdf.crdownload",
     "Machine Learning/wk08-Convolution_1.md",
-    "Machine Learning/Lectures/week08/convnets2(1).pdf",
-    "Machine Learning/Lectures/week08/convnets2(1).pdf.crdownload",
     "!Assignments.md",
     "Machine Learning/wk06-Deep Learning.md",
     "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
@@ -247,9 +238,6 @@
     "Math of Light and Sound/Code/wavesimulation/README.md",
     "Math of Light and Sound/L2-Wave-Equation.md",
     "Math of Light and Sound/L3-Simulation.md",
-    "Math of Light and Sound/L4-Light&Sound.md",
-    "CG/wk05-geometry.md",
-    "Math of Light and Sound/wk01.md",
     "Resources/L4-Light&Sound-20241018135155221.webp",
     "Resources/L4-Light&Sound-20241018134118797.webp",
     "Resources/L4-Light&Sound-20241018133627849.webp",
