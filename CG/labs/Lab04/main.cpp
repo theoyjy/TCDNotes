@@ -26,7 +26,7 @@ MESH TO LOAD
 ----------------------------------------------------------------------------*/
 // this mesh is a dae file format but you should be able to use any other format too, obj is typically what is used
 // put the mesh in your project directory, or provide a filepath for it here
-#define MESH_NAME "spoon.dae"
+#define MESH_NAME "C:/Users/sky/Desktop/FullSardine.dae"
 /*----------------------------------------------------------------------------
 ----------------------------------------------------------------------------*/
 

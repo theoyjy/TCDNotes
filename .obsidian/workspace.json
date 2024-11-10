@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f15349fe1d8a41d",
+        "id": "88ea514ac4f58006",
         "type": "tabs",
         "children": [
           {
-            "id": "b565c7fd8e7fa5f1",
+            "id": "3b326a6a8b15be1c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-05 17.41.23.excalidraw.md"
+                "file": "Resources/Exam Info-20241108130954337.webp"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-05 17.41.23.excalidraw"
+              "icon": "lucide-image",
+              "title": "Exam Info-20241108130954337"
             }
           }
         ]
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -181,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 738.5,
+    "width": 387.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,45 +198,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b565c7fd8e7fa5f1",
+  "active": "d478af17e7aea3ca",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-05 17.41.23.excalidraw.md",
+    "CV/wk06-CNN.md",
+    "CV/wk05-Camera Model and Depth Estimate.md",
+    "CV/wk04-Feature Detection and Matching.md",
+    "CV/wk03-Image Pyramids & Segmentation.md",
+    "Schedule.md",
+    "Math of Light and Sound/L5-Phasors.md",
+    "Math of Light and Sound/L6-Random-Phasors-Sums.md",
+    "Math of Light and Sound/lec/CS7GV2-L6-Random-Phasor-Sums.pdf",
+    "Math of Light and Sound/Exam Info.md",
+    "Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf",
+    "Resources/Exam Info-20241108130954337.webp",
+    "Math of Light and Sound/L2-Wave-Equation.md",
+    "Resources/Exam Info-20241108130616875.webp",
+    "Math of Light and Sound/lec/CS7GV2-L1-Waves-Slides.pdf",
+    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
+    "Excalidraw/Drawing 2024-11-07 17.45.31.excalidraw.md",
+    "CV/lec/6_CS7GV1-CV CNN_1.pdf",
+    "CV/Deep Learning.md",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "CV/wk01 - - Unit1Intro.md",
+    "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-30 23.14.07.excalidraw.md",
+    "Excalidraw/validate access of editing.md",
+    "Machine Learning/Drawing 2024-11-05 17.21.58.excalidraw.md",
+    "Machine Learning/Drawing 2024-11-05 17.41.23.excalidraw.md",
+    "Machine Learning/Lectures/week08/convnets2(1).pdf",
     "Machine Learning/wk09_conv2_application.md",
-    "Excalidraw/Drawing 2024-11-05 17.21.58.excalidraw.md",
     "Machine Learning/Lectures/text/textfeatures2.pdf",
     "Machine Learning/Lectures/text/textfeatures2.pdf.crdownload",
     "Machine Learning/Lectures/text",
     "Machine Learning/Lectures/新建文件夹",
-    "Machine Learning/Lectures/week09/convnets4.pdf",
-    "Machine Learning/Lectures/week09/convnets4.pdf.crdownload",
     "Machine Learning/wk08-Conv.md",
     "CG/wk08-Lighting.md",
-    "CG/CS7GV6_GeometricTransformations.pdf",
-    "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-30 23.14.07.excalidraw.md",
-    "Excalidraw/validate access of editing.md",
-    "Due.md",
     "README.md",
     "wk08-Conv_2.md",
-    "Math of Light and Sound/L5-Phasors.md",
-    "Math of Light and Sound/Exam Info.md",
-    "Math of Light and Sound/lec/CS7GV2-L5-Phasors.pdf",
-    "Machine Learning/Lectures/week09/convnets3.pdf",
-    "Machine Learning/Lectures/week09/convnets3.pdf.crdownload",
     "Research & Innovation/group/Dissertation Notes.md",
     "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
-    "Machine Learning/wk08-Convolution_1.md",
-    "!Assignments.md",
-    "Machine Learning/wk06-Deep Learning.md",
-    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
-    "CG/wk06-Viewing.md",
-    "CG/wk07-Animation.md",
     "Resources/L4-Light&Sound-20241018132854727.webp",
-    "Math of Light and Sound/L3-Simulation-Notes.md",
-    "Math of Light and Sound/math01.md",
-    "Math of Light and Sound/Code/wavesimulation/README.md",
-    "Math of Light and Sound/L2-Wave-Equation.md",
-    "Math of Light and Sound/L3-Simulation.md",
     "Resources/L4-Light&Sound-20241018135155221.webp",
     "Resources/L4-Light&Sound-20241018134118797.webp",
     "Resources/L4-Light&Sound-20241018133627849.webp",
@@ -245,8 +245,6 @@
     "L4-Light&Sound-20241018133106067.webp",
     "L4-Light&Sound-20241018132633650.webp",
     "Resources/Pasted Image 20241014160211_448.jpg",
-    "Resources/Project Proposal and Design Document-20241014220733510.webp",
-    "Resources/Pasted Image 20241014215655_083.jpg",
     "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
