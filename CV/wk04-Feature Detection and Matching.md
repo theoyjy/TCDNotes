@@ -38,7 +38,7 @@ This method achieves all the invariance, better than Harris. Also achieve the fe
 2. local maximum
    Compare the value of a pixel not only with its own neighbors, but also across all DOG
    For example, 3 DOG, 27 points in total, center is 1 point, so we have to compare 1 points to other 26 points.
-- [ ] Dive into the steps
+- [x] Dive into the steps ✅ 2024-11-11
 
 Key point  Localization
 ![[wk04-Feature Detection and Matching-20241009093104592.webp]]

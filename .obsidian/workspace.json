@@ -4,19 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "88ea514ac4f58006",
+        "id": "731cf0cc1f0535f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3b326a6a8b15be1c",
+            "id": "2120d9bf3351fa78",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Resources/Exam Info-20241108130954337.webp"
+                "file": "CV/wk04-map.canvas",
+                "viewState": {
+                  "x": -2128.333912761956,
+                  "y": 475.7024289993997,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-image",
-              "title": "Exam Info-20241108130954337"
+              "icon": "lucide-layout-dashboard",
+              "title": "wk04-map"
             }
           }
         ]
@@ -75,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 366.5,
+    "collapsed": true
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -176,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,11 +204,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d478af17e7aea3ca",
+  "active": "2120d9bf3351fa78",
   "lastOpenFiles": [
+    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
+    "CV/wk04-map.canvas",
+    "CV/wk04-Feature Detection and Matching.md",
+    "1731289904851.jpg",
+    "1731288125765.jpg",
+    "Pasted image 20241111011734.png",
+    "Pasted image 20241110233646.png",
+    "Pasted image 20241110222439.png",
+    "CG/wk07-Animation.md",
+    "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
+    "Resources/Exam Info-20241108130954337.webp",
     "CV/wk06-CNN.md",
     "CV/wk05-Camera Model and Depth Estimate.md",
-    "CV/wk04-Feature Detection and Matching.md",
     "CV/wk03-Image Pyramids & Segmentation.md",
     "Schedule.md",
     "Math of Light and Sound/L5-Phasors.md",
@@ -210,11 +226,9 @@
     "Math of Light and Sound/lec/CS7GV2-L6-Random-Phasor-Sums.pdf",
     "Math of Light and Sound/Exam Info.md",
     "Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf",
-    "Resources/Exam Info-20241108130954337.webp",
     "Math of Light and Sound/L2-Wave-Equation.md",
     "Resources/Exam Info-20241108130616875.webp",
     "Math of Light and Sound/lec/CS7GV2-L1-Waves-Slides.pdf",
-    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
     "Excalidraw/Drawing 2024-11-07 17.45.31.excalidraw.md",
     "CV/lec/6_CS7GV1-CV CNN_1.pdf",
     "CV/Deep Learning.md",
@@ -235,17 +249,9 @@
     "CG/wk08-Lighting.md",
     "README.md",
     "wk08-Conv_2.md",
-    "Research & Innovation/group/Dissertation Notes.md",
-    "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
     "Resources/L4-Light&Sound-20241018132854727.webp",
     "Resources/L4-Light&Sound-20241018135155221.webp",
     "Resources/L4-Light&Sound-20241018134118797.webp",
-    "Resources/L4-Light&Sound-20241018133627849.webp",
-    "L4-Light&Sound-20241018133131702.webp",
-    "L4-Light&Sound-20241018133106067.webp",
-    "L4-Light&Sound-20241018132633650.webp",
-    "Resources/Pasted Image 20241014160211_448.jpg",
-    "Untitled.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
