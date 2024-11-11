@@ -4,24 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "731cf0cc1f0535f1",
+        "id": "928053305f51c135",
         "type": "tabs",
+        "dimension": 42.84855769230769,
         "children": [
           {
-            "id": "2120d9bf3351fa78",
+            "id": "566fb64b14ddbdff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Advanced Software Development/CS7CS3-7-design oo-principles.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CS7CS3-7-design oo-principles"
+            }
+          }
+        ]
+      },
+      {
+        "id": "30e41ab6be85ecac",
+        "type": "tabs",
+        "dimension": 57.151442307692314,
+        "children": [
+          {
+            "id": "9635bc59d015ac12",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "CV/wk04-map.canvas",
+                "file": "Advanced Software Development/Refactoring.canvas",
                 "viewState": {
-                  "x": -2128.333912761956,
-                  "y": 475.7024289993997,
-                  "zoom": -1
+                  "x": -87.5,
+                  "y": 10.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "wk04-map"
+              "title": "Refactoring"
             }
           }
         ]
@@ -80,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
+    "width": 206.5,
     "collapsed": true
   },
   "right": {
@@ -198,27 +218,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2120d9bf3351fa78",
+  "active": "566fb64b14ddbdff",
   "lastOpenFiles": [
-    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
+    "Advanced Software Development/Refactoring.canvas",
+    "Advanced Software Development/CS7CS3-7-design oo-principles.pdf",
+    "Advanced Software Development/CS7CS3-7-design oo-principles.pdf.crdownload",
+    "CV/wk05-Camera Model and Depth Estimate.md",
+    "Resources/1731288125765.jpg",
     "CV/wk04-map.canvas",
+    "CV/wk06-CNN.md",
+    "CV/wk05-map.canvas",
+    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
     "CV/wk04-Feature Detection and Matching.md",
-    "1731289904851.jpg",
-    "1731288125765.jpg",
-    "Pasted image 20241111011734.png",
-    "Pasted image 20241110233646.png",
-    "Pasted image 20241110222439.png",
+    "Resources/1731289904851.jpg",
+    "Resources/Pasted image 20241111011734.png",
+    "Resources/Pasted image 20241110233646.png",
+    "Resources/Pasted image 20241110222439.png",
     "CG/wk07-Animation.md",
     "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
     "Resources/Exam Info-20241108130954337.webp",
-    "CV/wk06-CNN.md",
-    "CV/wk05-Camera Model and Depth Estimate.md",
     "CV/wk03-Image Pyramids & Segmentation.md",
     "Schedule.md",
     "Math of Light and Sound/L5-Phasors.md",
@@ -243,8 +265,6 @@
     "Machine Learning/wk09_conv2_application.md",
     "Machine Learning/Lectures/text/textfeatures2.pdf",
     "Machine Learning/Lectures/text/textfeatures2.pdf.crdownload",
-    "Machine Learning/Lectures/text",
-    "Machine Learning/Lectures/新建文件夹",
     "Machine Learning/wk08-Conv.md",
     "CG/wk08-Lighting.md",
     "README.md",

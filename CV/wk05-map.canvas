@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0d23a6a05484e545","x":-134,"y":-19,"width":374,"height":119,"type":"text","text":"# Camera Models and Depth Estimation"},
+		{"id":"93d70755ad19e86e","x":560,"y":-439,"width":620,"height":420,"type":"text","text":"## Pinhole Camera\n\n### why aperture  smaller would solve the smoothness？\n\nIn a pinhole camera, a larger aperture allows light rays to enter from more angles, which can cause overlapping of light rays on the image plane, resulting in a blurrier image. \n\n*A smaller aperture naturally increases the depth of field, meaning more of the image remains in focus.*\n\nHowever, *making the aperture too small eventually introduces diffraction effects, which can reduce smoothness by softening the image*. "}
+	],
+	"edges":[
+		{"id":"0d6099b0599ca9b4","fromNode":"0d23a6a05484e545","fromSide":"right","toNode":"93d70755ad19e86e","toSide":"left"}
+	]
+}

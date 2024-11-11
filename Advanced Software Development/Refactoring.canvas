@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"7222291623336dfa","type":"text","text":"### Bad Design:\n1. Rigidity: small update causes multiple changes\n2. Fragility: small update causes multiple breaks\n3. Immobility: hard to re-use\n4. Viscosity: hard to change","x":-180,"y":-180,"width":455,"height":219}
+	],
+	"edges":[]
+}
