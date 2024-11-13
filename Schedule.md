@@ -8,12 +8,12 @@
 - [ ] RI: Presentation📅 2024-11-29 
 - [ ] Math: Exam 📅 2024-11-29 
 - [ ] ML: week9 assignment 📅 2024-12-01 
+- [ ] CG: Individual Project delivery 3 📅 2024-12-10
 - [ ] RI: Individual dissertation Critique 📅 2024-12-13 
 - [ ] RI: Individual Research Plan 📅 2024-12-13 
 - [ ] ML: Individual project 
 - [ ] CV: Group Project: detect lane 1月
-- [ ] CG: Individual Project delivery 3
-- [ ] CG: Group Project: escape room 1月
+- [ ] CG: Group Project: escape room 📅 2025-01-08 
 
 ### Week 9 Plan
 - [x] Finish CV Individual Project: ⏳ 2024-11-08 ✅ 2024-11-10

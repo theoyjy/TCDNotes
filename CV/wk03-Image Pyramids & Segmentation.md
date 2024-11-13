@@ -8,6 +8,7 @@ top is level 0, bottom is level j(base)
 #### Re-scale & Correlation
 - **Re-scale (Down sampling)**: This process involves creating smaller versions of the original image, typically by reducing the width and height by a factor (e.g., 2x, 4x) at each level, resulting in a pyramid of images at multiple resolutions.
 - **Correlation** refers to comparing a smaller **template or filter(a smaller image or pattern you are searching for)** to *every possible position(slide the template)* within the downscaled image at each pyramid level. 
+- **Lose information**
   >At each level of the pyramid, you slide a template over the entire image and compute a correlation score at every position *to identify where the template matches best*.
 ### Up sampling - interpolation:
 - to make the resolution upscale by factor n, have to predict many pixels

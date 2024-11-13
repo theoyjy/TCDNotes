@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "928053305f51c135",
+        "id": "f3cff9e006a02399",
         "type": "tabs",
-        "dimension": 42.84855769230769,
         "children": [
           {
-            "id": "566fb64b14ddbdff",
+            "id": "3ebc50bd60f97325",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Advanced Software Development/CS7CS3-7-design oo-principles.pdf"
+                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CS7CS3-7-design oo-principles"
-            }
-          }
-        ]
-      },
-      {
-        "id": "30e41ab6be85ecac",
-        "type": "tabs",
-        "dimension": 57.151442307692314,
-        "children": [
-          {
-            "id": "9635bc59d015ac12",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Advanced Software Development/Refactoring.canvas",
-                "viewState": {
-                  "x": -87.5,
-                  "y": 10.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Refactoring"
+              "icon": "lucide-file",
+              "title": "wk02- Unit1 - Linear Filtering and Edge Detection"
             }
           }
         ]
@@ -100,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -222,56 +199,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "566fb64b14ddbdff",
+  "active": "3ebc50bd60f97325",
   "lastOpenFiles": [
-    "Advanced Software Development/Refactoring.canvas",
-    "Advanced Software Development/CS7CS3-7-design oo-principles.pdf",
-    "Advanced Software Development/CS7CS3-7-design oo-principles.pdf.crdownload",
-    "CV/wk05-Camera Model and Depth Estimate.md",
-    "Resources/1731288125765.jpg",
+    "CV/wk01 - - Unit1Intro.md",
+    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+    "CV/wk03-Image Pyramids & Segmentation.md",
     "CV/wk04-map.canvas",
-    "CV/wk06-CNN.md",
-    "CV/wk05-map.canvas",
     "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
     "CV/wk04-Feature Detection and Matching.md",
     "Resources/1731289904851.jpg",
-    "Resources/Pasted image 20241111011734.png",
-    "Resources/Pasted image 20241110233646.png",
-    "Resources/Pasted image 20241110222439.png",
+    "CV/wk05-map.canvas",
+    "CV/wk06-CNN.md",
+    "CV/wk6-map.canvas",
+    "Pasted image 20241112224049.png",
+    "Pasted image 20241112223521.png",
+    "Pasted image 20241112220521.png",
+    "Pasted image 20241112214051.png",
+    "Machine Learning/Lectures/week04/neuralnets.pdf",
+    "Pasted image 20241112213556.png",
+    "Pasted image 20241112213006.png",
+    "Machine Learning/wk08-Conv.md",
+    "Machine Learning/wk06-Deep Learning.md",
+    "Machine Learning/Lectures/week08/week8a_convnets1.pdf",
+    "Machine Learning/Lectures/week08/convnets2(1).pdf",
+    "Machine Learning/Lectures/week05/kerneltrick2.pdf",
+    "CV/lec/6_CS7GV1-CV CNN_1.pdf",
+    "Machine Learning/Lectures/wk10/week9b_10a_languageModels_v2.pdf",
+    "Schedule.md",
+    "Machine Learning/wk09-TextFeatures.md",
+    "Machine Learning/Lectures/week09/convnets4.pdf",
+    "Machine Learning/Lectures/week09/week9_textfeatures.pdf",
+    "Machine Learning/Lectures/wk11/kmeans.pdf",
+    "Machine Learning/Drawing 2024-11-05 17.21.58.excalidraw.md",
+    "Machine Learning/wk09_conv2_application.md",
+    "Pasted image 20241112151422.png",
+    "Pasted image 20241112145446.png",
+    "Resources/Pasted image 20241111215754.png",
+    "CV/wk05-Camera Model and Depth Estimate.md",
+    "Advanced Software Development/Refactoring.canvas",
     "CG/wk07-Animation.md",
     "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
-    "Resources/Exam Info-20241108130954337.webp",
-    "CV/wk03-Image Pyramids & Segmentation.md",
-    "Schedule.md",
     "Math of Light and Sound/L5-Phasors.md",
     "Math of Light and Sound/L6-Random-Phasors-Sums.md",
-    "Math of Light and Sound/lec/CS7GV2-L6-Random-Phasor-Sums.pdf",
     "Math of Light and Sound/Exam Info.md",
-    "Math of Light and Sound/lec/CS7GV2-L2-Wave-Equation.pdf",
     "Math of Light and Sound/L2-Wave-Equation.md",
-    "Resources/Exam Info-20241108130616875.webp",
-    "Math of Light and Sound/lec/CS7GV2-L1-Waves-Slides.pdf",
     "Excalidraw/Drawing 2024-11-07 17.45.31.excalidraw.md",
-    "CV/lec/6_CS7GV1-CV CNN_1.pdf",
     "CV/Deep Learning.md",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "CV/wk01 - - Unit1Intro.md",
     "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
     "Excalidraw/Drawing 2024-10-30 23.14.07.excalidraw.md",
     "Excalidraw/validate access of editing.md",
-    "Machine Learning/Drawing 2024-11-05 17.21.58.excalidraw.md",
-    "Machine Learning/Drawing 2024-11-05 17.41.23.excalidraw.md",
-    "Machine Learning/Lectures/week08/convnets2(1).pdf",
-    "Machine Learning/wk09_conv2_application.md",
-    "Machine Learning/Lectures/text/textfeatures2.pdf",
-    "Machine Learning/Lectures/text/textfeatures2.pdf.crdownload",
-    "Machine Learning/wk08-Conv.md",
     "CG/wk08-Lighting.md",
     "README.md",
-    "wk08-Conv_2.md",
-    "Resources/L4-Light&Sound-20241018132854727.webp",
-    "Resources/L4-Light&Sound-20241018135155221.webp",
-    "Resources/L4-Light&Sound-20241018134118797.webp",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
