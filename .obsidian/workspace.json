@@ -4,25 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "f3cff9e006a02399",
+        "id": "fc2cdf48dfa65868",
         "type": "tabs",
         "children": [
           {
-            "id": "3ebc50bd60f97325",
+            "id": "4b255c949d44df3c",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Math of Light and Sound/L8-Intensity-Sums.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "L8-Intensity-Sums"
+            }
+          },
+          {
+            "id": "d7cf64e550450115",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
+                "file": "Math of Light and Sound/Exam Info.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "wk02- Unit1 - Linear Filtering and Edge Detection"
+              "title": "Exam Info"
+            }
+          },
+          {
+            "id": "0a446d36bcf72844",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Math of Light and Sound/L6-Random-Phasors-Sums.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "L6-Random-Phasors-Sums"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 392.5,
+    "collapsed": true
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -177,9 +207,21 @@
               "icon": "calendar-clock",
               "title": "Tasks Timeline"
             }
+          },
+          {
+            "id": "0efe3e76fb3498ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CV/lec/7_CS7GV1-CV CNN_2.pdf"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 7_CS7GV1-CV CNN_2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,57 +241,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ebc50bd60f97325",
+  "active": "0a446d36bcf72844",
   "lastOpenFiles": [
-    "CV/wk01 - - Unit1Intro.md",
-    "CV/wk02- Unit1 - Linear Filtering and Edge Detection.md",
-    "CV/wk03-Image Pyramids & Segmentation.md",
-    "CV/wk04-map.canvas",
-    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
-    "CV/wk04-Feature Detection and Matching.md",
-    "Resources/1731289904851.jpg",
-    "CV/wk05-map.canvas",
-    "CV/wk06-CNN.md",
-    "CV/wk6-map.canvas",
-    "Pasted image 20241112224049.png",
-    "Pasted image 20241112223521.png",
-    "Pasted image 20241112220521.png",
-    "Pasted image 20241112214051.png",
-    "Machine Learning/Lectures/week04/neuralnets.pdf",
-    "Pasted image 20241112213556.png",
-    "Pasted image 20241112213006.png",
-    "Machine Learning/wk08-Conv.md",
-    "Machine Learning/wk06-Deep Learning.md",
-    "Machine Learning/Lectures/week08/week8a_convnets1.pdf",
-    "Machine Learning/Lectures/week08/convnets2(1).pdf",
-    "Machine Learning/Lectures/week05/kerneltrick2.pdf",
-    "CV/lec/6_CS7GV1-CV CNN_1.pdf",
-    "Machine Learning/Lectures/wk10/week9b_10a_languageModels_v2.pdf",
-    "Schedule.md",
-    "Machine Learning/wk09-TextFeatures.md",
-    "Machine Learning/Lectures/week09/convnets4.pdf",
-    "Machine Learning/Lectures/week09/week9_textfeatures.pdf",
-    "Machine Learning/Lectures/wk11/kmeans.pdf",
-    "Machine Learning/Drawing 2024-11-05 17.21.58.excalidraw.md",
-    "Machine Learning/wk09_conv2_application.md",
-    "Pasted image 20241112151422.png",
-    "Pasted image 20241112145446.png",
-    "Resources/Pasted image 20241111215754.png",
-    "CV/wk05-Camera Model and Depth Estimate.md",
-    "Advanced Software Development/Refactoring.canvas",
-    "CG/wk07-Animation.md",
-    "Research & Innovation/group/Dissertation Summary & Business Ideas.md",
+    "Math of Light and Sound/L8-Intensity-Sums.md",
     "Math of Light and Sound/L5-Phasors.md",
     "Math of Light and Sound/L6-Random-Phasors-Sums.md",
     "Math of Light and Sound/Exam Info.md",
-    "Math of Light and Sound/L2-Wave-Equation.md",
-    "Excalidraw/Drawing 2024-11-07 17.45.31.excalidraw.md",
+    "Math of Light and Sound/lec/CS7GV2-L5-Phasors.pdf",
+    "Math of Light and Sound/L7-Intensity.md",
+    "Math of Light and Sound/L4-Light&Sound.md",
+    "Math of Light and Sound/L3-Simulation-Notes.md",
+    "Math of Light and Sound/lec/CS7GV2-L8-Intensity-Sums.pdf",
+    "Exam Info-20241122130839709.webp",
+    "CV/wk01 - - Unit1Intro.md",
+    "Schedule.md",
     "CV/Deep Learning.md",
-    "Excalidraw/Drawing 2024-10-14 15.51.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-30 23.14.07.excalidraw.md",
-    "Excalidraw/validate access of editing.md",
+    "CV/wk6-map.canvas",
+    "CV/lec/7_CS7GV1-CV CNN_2.pdf",
+    "!Assignments.md",
+    "2024-11-20.md",
+    "CV/wk07-DeepLearning 2.md",
+    "Machine Learning/Lectures/wk11/kmeans.pdf",
+    "Machine Learning/Lectures/wk10/week9b_wordEmbeddings.pdf",
+    "Machine Learning/Lectures/wk10/week9b_10a_languageModels_v2.pdf",
+    "Machine Learning/Lectures/week09/week9_textfeatures.pdf",
+    "Machine Learning/Lectures/week09/convnets4.pdf",
+    "Machine Learning/Lectures/week09/convnets3.pdf",
+    "Machine Learning/Lectures/week08/week8a_convnets1.pdf",
+    "CV/wk06-DeepLearning.md",
+    "Machine Learning/wk08-Conv.md",
+    "Machine Learning/wk06-Deep Learning.md",
+    "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
+    "Machine Learning/wk09-TextFeatures.md",
+    "Machine Learning/wk09_conv2_application.md",
+    "Math of Light and Sound/L2-Wave-Equation.md",
+    "Math of Light and Sound/math01.md",
+    "Math of Light and Sound/Math Review.md",
+    "Resources/Math Review-20241119220602262.webp",
+    "Math of Light and Sound/wk01.md",
     "CG/wk08-Lighting.md",
-    "README.md",
+    "Machine Learning/Weekly Assignments/week9/README.md",
+    "CV/wk05-map.canvas",
+    "CV/wk04-map.canvas",
+    "Resources/Pasted image 20241112145446.png",
+    "Resources/1731289904851.jpg",
+    "Resources/Pasted image 20241112224049.png",
+    "Resources/Pasted image 20241112223521.png",
+    "Resources/Pasted image 20241112220521.png",
+    "Resources/Pasted image 20241112214051.png",
+    "Resources/Pasted image 20241112213556.png",
+    "Resources/Pasted image 20241112213006.png",
+    "Advanced Software Development/Refactoring.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
     "Knowledge/SDE/2. Medium/Top 50 C++ Interview Questions.canvas",
