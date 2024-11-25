@@ -14,6 +14,8 @@ $k=2\pi/\lambda$ wave number $rad\space m^{-1}$
 
 ## Wave equation
 
+![[Math Review-20241124213433763.webp]]
+
 ### Math Description
 
 **$r$ is the distance, $t$ is time**
@@ -40,8 +42,6 @@ $k=2\pi/\lambda$ wave number $rad\space m^{-1}$
 
 
 The equation at first is in angular, then as we solve, it turns into meters.
-
-
 $$
 \begin{align}
 A(r,t) & = cos(kr - \omega t) + cos(kr + \omega t) \\

@@ -26,6 +26,8 @@ second 3 would be after reading weeks (L5 - L8)
 >   ![[Exam Info-20241108130616875.webp]]
 >2. L2: 
 >   ![[Exam Info-20241108130954337.webp]]
+>   ![[Exam Info-20241124235447157.webp]]
+
 
 
 # Post reading weeks
@@ -38,8 +40,3 @@ Demonstrate two iterations of a **wave motion simulation** algorithm using some 
 
 Explain the role of the **cental limit theorem** in **determining a probability density** for the **phasor** components of a wave sum.
 
-Why is the **probability density** of wave sum intensity a **negative exponential** function?
-
-Explain the differences between the probability density of **the sum of two intensities** and the probability density of **one intensity.**
-
-Explain the role of the **Fourier transform** in the **Fraunhofer approximation of diffraction**.

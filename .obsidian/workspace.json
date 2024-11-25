@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b255c949d44df3c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Math of Light and Sound/L8-Intensity-Sums.md"
-              },
-              "pinned": true,
-              "icon": "excalidraw-icon",
-              "title": "L8-Intensity-Sums"
-            }
-          },
-          {
             "id": "d7cf64e550450115",
             "type": "leaf",
             "pinned": true,
@@ -39,19 +25,53 @@
             }
           },
           {
-            "id": "0a446d36bcf72844",
+            "id": "d899dacd2919c087",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math of Light and Sound/Math Review.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Math Review"
+            }
+          },
+          {
+            "id": "c2ab6f0093b294d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math of Light and Sound/L4-Light&Sound.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "L4-Light&Sound"
+            }
+          },
+          {
+            "id": "91296c920990e8a4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Math of Light and Sound/L6-Random-Phasors-Sums.md"
+                "file": "Math of Light and Sound/lec/Math Exam P1.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "L6-Random-Phasors-Sums"
+              "icon": "lucide-file-text",
+              "title": "Math Exam P1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feature detection and matching",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -214,14 +233,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CV/lec/7_CS7GV1-CV CNN_2.pdf"
+                "file": "Math of Light and Sound/lec/Math Exam P1.pdf"
               },
               "icon": "lucide-info",
-              "title": "File properties for 7_CS7GV1-CV CNN_2"
+              "title": "File properties for Math Exam P1"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -241,56 +260,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a446d36bcf72844",
+  "active": "91296c920990e8a4",
   "lastOpenFiles": [
-    "Math of Light and Sound/L8-Intensity-Sums.md",
-    "Math of Light and Sound/L5-Phasors.md",
-    "Math of Light and Sound/L6-Random-Phasors-Sums.md",
-    "Math of Light and Sound/Exam Info.md",
-    "Math of Light and Sound/lec/CS7GV2-L5-Phasors.pdf",
-    "Math of Light and Sound/L7-Intensity.md",
-    "Math of Light and Sound/L4-Light&Sound.md",
+    "Math of Light and Sound/lec/Math Exam P2.pdf",
     "Math of Light and Sound/L3-Simulation-Notes.md",
-    "Math of Light and Sound/lec/CS7GV2-L8-Intensity-Sums.pdf",
+    "Math of Light and Sound/lec/Math Exam P1.pdf",
+    "Math of Light and Sound/lec/CS7GV2-L4-Light-Sound_annotated.pdf",
+    "Math of Light and Sound/Code/Longitudinal_wave.gif",
+    "Math of Light and Sound/Code/Waves_on_a_string_at_5.png",
+    "Math of Light and Sound/Code/plot.png",
+    "Math of Light and Sound/Code/wavesimulation/AcousticsWave.py",
+    "Math of Light and Sound/L4-Light&Sound.md",
+    "Math of Light and Sound/math01.md",
+    "Math of Light and Sound/L2-Wave-Equation.md",
+    "Math of Light and Sound/lec/CS7GV2-L3-Simulation.pdf",
+    "Math of Light and Sound/Exam Info.md",
+    "Exam Info-20241124235447157.webp",
+    "Math of Light and Sound/Math Review.md",
+    "Math Review-20241124213433763.webp",
+    "Math of Light and Sound/L7-Intensity.md",
+    "Exam Info-20241124183935015.webp",
+    "Math of Light and Sound/Code/wavesimulation/ImageIntensitySimulation.py",
+    "Math of Light and Sound/Code/wavesimulation/RandomWaveSimulation.py",
+    "Math of Light and Sound/L8-Intensity-Sums.md",
+    "Math of Light and Sound/L6-Random-Phasors-Sums.md",
+    "CV/lec/5_CS7GV1-CV Camera Models and Depth Estimation.pdf",
+    "CV/wk05-map.canvas",
+    "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
+    "CV/wk05-Camera Model and Depth Estimate.md",
+    "CV/wk06-DeepLearning.md",
+    "CV/lec/1_CS7GV1-CV Introduction.pdf",
+    "Math of Light and Sound/L5-Phasors.md",
     "Exam Info-20241122130839709.webp",
     "CV/wk01 - - Unit1Intro.md",
     "Schedule.md",
     "CV/Deep Learning.md",
     "CV/wk6-map.canvas",
-    "CV/lec/7_CS7GV1-CV CNN_2.pdf",
     "!Assignments.md",
     "2024-11-20.md",
     "CV/wk07-DeepLearning 2.md",
-    "Machine Learning/Lectures/wk11/kmeans.pdf",
-    "Machine Learning/Lectures/wk10/week9b_wordEmbeddings.pdf",
-    "Machine Learning/Lectures/wk10/week9b_10a_languageModels_v2.pdf",
-    "Machine Learning/Lectures/week09/week9_textfeatures.pdf",
-    "Machine Learning/Lectures/week09/convnets4.pdf",
-    "Machine Learning/Lectures/week09/convnets3.pdf",
-    "Machine Learning/Lectures/week08/week8a_convnets1.pdf",
-    "CV/wk06-DeepLearning.md",
     "Machine Learning/wk08-Conv.md",
     "Machine Learning/wk06-Deep Learning.md",
     "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
     "Machine Learning/wk09-TextFeatures.md",
     "Machine Learning/wk09_conv2_application.md",
-    "Math of Light and Sound/L2-Wave-Equation.md",
-    "Math of Light and Sound/math01.md",
-    "Math of Light and Sound/Math Review.md",
     "Resources/Math Review-20241119220602262.webp",
     "Math of Light and Sound/wk01.md",
     "CG/wk08-Lighting.md",
-    "Machine Learning/Weekly Assignments/week9/README.md",
-    "CV/wk05-map.canvas",
     "CV/wk04-map.canvas",
     "Resources/Pasted image 20241112145446.png",
     "Resources/1731289904851.jpg",
-    "Resources/Pasted image 20241112224049.png",
-    "Resources/Pasted image 20241112223521.png",
-    "Resources/Pasted image 20241112220521.png",
-    "Resources/Pasted image 20241112214051.png",
-    "Resources/Pasted image 20241112213556.png",
-    "Resources/Pasted image 20241112213006.png",
     "Advanced Software Development/Refactoring.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
