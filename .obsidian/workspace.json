@@ -4,74 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2cdf48dfa65868",
+        "id": "33ae70f8ff5303d2",
         "type": "tabs",
         "children": [
           {
-            "id": "d7cf64e550450115",
+            "id": "f21f392222794e94",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math of Light and Sound/Exam Info.md",
+                "file": "CV/wk07-DeepLearning 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Exam Info"
-            }
-          },
-          {
-            "id": "d899dacd2919c087",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math of Light and Sound/Math Review.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Math Review"
-            }
-          },
-          {
-            "id": "c2ab6f0093b294d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math of Light and Sound/L4-Light&Sound.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "L4-Light&Sound"
-            }
-          },
-          {
-            "id": "91296c920990e8a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math of Light and Sound/lec/Math Exam P1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Math Exam P1"
+              "title": "wk07-DeepLearning 2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 329.5
   },
   "right": {
     "id": "5478f96a86d2afbd",
@@ -256,27 +207,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91296c920990e8a4",
+  "active": "f21f392222794e94",
   "lastOpenFiles": [
+    "CV/wk06-DeepLearning.md",
+    "CV/wk07-DeepLearning 2.md",
+    "CV/wk6-map.canvas",
+    "Math of Light and Sound/Exam Info.md",
+    "Math of Light and Sound/Math Review.md",
+    "Math of Light and Sound/L4-Light&Sound.md",
+    "Research.md",
+    "Research-20241125121550263.webp",
     "Math of Light and Sound/lec/Math Exam P2.pdf",
-    "Math of Light and Sound/L3-Simulation-Notes.md",
     "Math of Light and Sound/lec/Math Exam P1.pdf",
+    "Math of Light and Sound/L3-Simulation-Notes.md",
     "Math of Light and Sound/lec/CS7GV2-L4-Light-Sound_annotated.pdf",
     "Math of Light and Sound/Code/Longitudinal_wave.gif",
     "Math of Light and Sound/Code/Waves_on_a_string_at_5.png",
     "Math of Light and Sound/Code/plot.png",
     "Math of Light and Sound/Code/wavesimulation/AcousticsWave.py",
-    "Math of Light and Sound/L4-Light&Sound.md",
     "Math of Light and Sound/math01.md",
     "Math of Light and Sound/L2-Wave-Equation.md",
     "Math of Light and Sound/lec/CS7GV2-L3-Simulation.pdf",
-    "Math of Light and Sound/Exam Info.md",
     "Exam Info-20241124235447157.webp",
-    "Math of Light and Sound/Math Review.md",
     "Math Review-20241124213433763.webp",
     "Math of Light and Sound/L7-Intensity.md",
     "Exam Info-20241124183935015.webp",
@@ -288,17 +243,14 @@
     "CV/wk05-map.canvas",
     "CV/lec/4_CS7GV1-CV-Feature Detection and Matching.pdf",
     "CV/wk05-Camera Model and Depth Estimate.md",
-    "CV/wk06-DeepLearning.md",
     "CV/lec/1_CS7GV1-CV Introduction.pdf",
     "Math of Light and Sound/L5-Phasors.md",
     "Exam Info-20241122130839709.webp",
     "CV/wk01 - - Unit1Intro.md",
     "Schedule.md",
     "CV/Deep Learning.md",
-    "CV/wk6-map.canvas",
     "!Assignments.md",
     "2024-11-20.md",
-    "CV/wk07-DeepLearning 2.md",
     "Machine Learning/wk08-Conv.md",
     "Machine Learning/wk06-Deep Learning.md",
     "Machine Learning/wk04- K-Nearest Neighbors & Neural Nets.md",
@@ -306,10 +258,8 @@
     "Machine Learning/wk09_conv2_application.md",
     "Resources/Math Review-20241119220602262.webp",
     "Math of Light and Sound/wk01.md",
-    "CG/wk08-Lighting.md",
     "CV/wk04-map.canvas",
     "Resources/Pasted image 20241112145446.png",
-    "Resources/1731289904851.jpg",
     "Advanced Software Development/Refactoring.canvas",
     "Advanced Software Development/Agile.canvas",
     "Knowledge/SDE/2. Medium/STL CheatSheet.canvas",
