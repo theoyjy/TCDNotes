@@ -10,19 +10,17 @@ await dv.view("tasksCalendar", {pages: "", view: "month", firstDayOfWeek: "1", o
 - [x] RI: Group Dissertation Critique 📅 2024-11-01 ✅ 2024-11-08
 - [x] CV: assignment2 📅 2024-11-08 ✅ 2024-11-08
 - [x] CG: Core Scene Development and Functionality 📅 2024-11-12 ✅ 2024-11-10
-- [ ] Dissertation Professor Meeting ⏳ 2024-11-25
-	- [ ] review research plan content and canvas 1h 🆔 gxy3fm ⏳ 2024-11-22
-	- [ ] read 2 paper⏳ 2024-11-22
+- [x] Dissertation Professor Meeting ⏳ 2024-11-25 ✅ 2024-11-27
 - [ ] CV: Quiz 3 📅 2024-11-27
-	- [ ] Review CNN 3h⏳ 2024-11-21
-- [ ] CV: final 
+	- [x] Review CNN 3h ⏳ 2024-11-21 ✅ 2024-11-27
 - [ ] ASE: Individual Report ⏳ 2024-11-20 📅 2024-11-29
-- [ ] RI: Presentation📅 2024-11-29 
+- [x] RI: Presentation 📅 2024-11-29 ✅ 2024-11-27
 - [ ] Math: Exam 📅 2024-11-29 
 	- [x] Wave Equation ✅ 2024-11-20
-	- [ ] Wave motion equation 1.5h⏳ 2024-11-21
-	- [ ] Review Everything else 🛫 2024-11-23
-- [ ] ML: week9 assignment 📅 2024-12-01 
+	- [x] Wave motion equation 1.5h ⏳ 2024-11-21 ✅ 2024-11-27
+	- [x] Review Everything else 🛫 2024-11-23 ✅ 2024-11-27
+- [ ] CV: Assignment 3 📅 2024-12-06
+- [ ] ML: week9 assignment 📅 2024-12-08
 	- [ ] Study transformer and try training once 2h⏳ 2024-11-21
 - [ ] CG: Individual Project delivery 3 📅 2024-12-10
 	- [ ] Load Texture
@@ -30,7 +28,9 @@ await dv.view("tasksCalendar", {pages: "", view: "month", firstDayOfWeek: "1", o
 		- [ ] Load to memory 1h⏳ 2024-11-21
 		- [ ] Load to shader 1h ⏳ 2024-11-21
 - [ ] RI: Individual dissertation Critique 🆔 kbh8sb ⛔ gxy3fm 📅 2024-12-13
-- [ ] RI: Individual Research Plan 📅 2024-12-13 
+- [ ] RI: Individual Research Plan 📅 2024-12-13 	
+	- [ ] - [ ] review research plan content and canvas 1h 🆔 gxy3fm ⏳ 2024-11-22
+	- [ ] read 2 paper⏳ 2024-11-22
 - [ ] ML: Individual project
 - [ ] CV: Group Project: detect lane 1月
 - [ ] ML: Project
